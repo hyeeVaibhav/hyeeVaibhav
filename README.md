@@ -4,8 +4,8 @@
 Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** hmmmmm.....
-- 🌱 **I’m currently learning:** Full-Stack Web Development, Data Structures & Algorithms, and Machine       Learning
-- 👯 **I’m looking to collaborate on:** Open-source projects related to Web Development, Machine             Learning, and Data Analytics
+- 🌱 **I’m currently learning:** Full-Stack Web Development, Data Structures & Algorithms, and Machine         Learning
+- 👯 **I’m looking to collaborate on:** Open-source projects related to Web Development, Machine               Learning, and Data Analytics
 - 🤔 **I’m looking for help with:** Building real-world projects and improving problem-solving skills
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
