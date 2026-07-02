@@ -35,43 +35,74 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 
 <div align="center">
 
-# 💻 Tech Stack & GitHub Stats
+<div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+# 🎬 VAIBHAVFLIX
 
-<br>
+### *Streaming Technologies Since 2025*
 
-<!-- Tech Stack -->
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,angular,mysql,sqlite,git,github,docker,kubernetes,aws,gcp,vscode&perline=9" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=700&color=E50914&lines=Welcome+Back!;Continue+Building...;Continue+Learning...;Deploy.+Commit.+Repeat." />
+
+</div>
+
+---
+
+# 🍿 Continue Watching
+
+| 🐍 Python | ☕ Java | ⚡ C++ | 🌐 JavaScript |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" width="75"> | <img src="https://skillicons.dev/icons?i=java" width="75"> | <img src="https://skillicons.dev/icons?i=cpp" width="75"> | <img src="https://skillicons.dev/icons?i=javascript" width="75"> |
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🔥 Trending Now
+
+| 🐳 Docker | ☸ Kubernetes | ☁️ AWS | 🐙 GitHub |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" width="75"> | <img src="https://skillicons.dev/icons?i=kubernetes" width="75"> | <img src="https://skillicons.dev/icons?i=aws" width="75"> | <img src="https://skillicons.dev/icons?i=github" width="75"> |
+| 📈 Trending | 📈 Trending | 📈 Trending | 📈 Trending |
+
+---
+
+# ❤️ Top Picks For Me
+
+| Git | MySQL | Node.js | HTML5 |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git" width="75"> | <img src="https://skillicons.dev/icons?i=mysql" width="75"> | <img src="https://skillicons.dev/icons?i=nodejs" width="75"> | <img src="https://skillicons.dev/icons?i=html" width="75"> |
+
+---
+
+# 🎞 My List
+
+```text
+▶ Redis
+▶ Google Cloud
+▶ Power BI
+▶ Pandas
+▶ NumPy
+▶ PyTorch
+▶ Scikit-Learn
+▶ Angular
+```
+
+---
+
+<div align="center">
+
+## 📊 Developer Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hyeeVaibhav&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<!-- Additional Technologies -->
-<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<!-- GitHub Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<br><br>
-
-<!-- Most Used Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
