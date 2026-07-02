@@ -37,60 +37,57 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 
 <div align="center">
 
-# 🎬 VAIBHAVFLIX
+<div align="center">
 
-### *Streaming Technologies Since 2025*
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED;WELCOME+VAIBHAV;FULL+STACK+DEVELOPER;BUILD.+LEARN.+DEPLOY." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=700&color=E50914&lines=Welcome+Back!;Continue+Building...;Continue+Learning...;Deploy.+Commit.+Repeat." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6A00FF&height=180&section=header&text=JARVIS%20OS&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
 ---
 
-# 🍿 Continue Watching
-
-| 🐍 Python | ☕ Java | ⚡ C++ | 🌐 JavaScript |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="75"> | <img src="https://skillicons.dev/icons?i=java" width="75"> | <img src="https://skillicons.dev/icons?i=cpp" width="75"> | <img src="https://skillicons.dev/icons?i=javascript" width="75"> |
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
-
----
-
-# 🔥 Trending Now
-
-| 🐳 Docker | ☸ Kubernetes | ☁️ AWS | 🐙 GitHub |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker" width="75"> | <img src="https://skillicons.dev/icons?i=kubernetes" width="75"> | <img src="https://skillicons.dev/icons?i=aws" width="75"> | <img src="https://skillicons.dev/icons?i=github" width="75"> |
-| 📈 Trending | 📈 Trending | 📈 Trending | 📈 Trending |
-
----
-
-# ❤️ Top Picks For Me
-
-| Git | MySQL | Node.js | HTML5 |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="75"> | <img src="https://skillicons.dev/icons?i=mysql" width="75"> | <img src="https://skillicons.dev/icons?i=nodejs" width="75"> | <img src="https://skillicons.dev/icons?i=html" width="75"> |
-
----
-
-# 🎞 My List
+# 🖥 SYSTEM STATUS
 
 ```text
-▶ Redis
-▶ Google Cloud
-▶ Power BI
-▶ Pandas
-▶ NumPy
-▶ PyTorch
-▶ Scikit-Learn
-▶ Angular
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 USER        : hyeeVaibhav
+🟢 STATUS      : ONLINE
+💻 ROLE        : Computer Science Student
+📍 LOCATION    : India
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ CURRENT MISSION
+
+▰▰▰▰▰▰▰▱▱▱ 70%
+
+Learning:
+• JavaScript
+• GitHub
+• Docker
+• Kubernetes
+• Cloud
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
+# ⚡ TECH MODULES
+
 <div align="center">
 
-## 📊 Developer Analytics
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,angular,mysql,sqlite,git,github,docker,kubernetes,aws,gcp,vscode&perline=9"/>
+
+</div>
+
+---
+
+# 📡 LIVE ANALYTICS
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -100,9 +97,70 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true"/>
+---
+
+# 📈 SYSTEM ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛰 DEPLOYED TECHNOLOGIES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+---
+
+# 🤖 AI MODULES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙ SYSTEM LOG
+
+```
+[✓] Git Initialized
+
+[✓] Coffee Loaded
+
+[✓] Bugs Fixed
+
+[✓] New Skills Installed
+
+[✓] Ready for Next Mission...
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F5FF&height=140&section=footer"/>
 
 </div>
 
