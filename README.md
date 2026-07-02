@@ -31,7 +31,15 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 
 <div align="center">
 
+<div align="center">
+
 # 💻 Tech Stack
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Python+Developer;Java+Developer;Full+Stack+Learner;Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,nodejs,angular,mysql,sqlite,git,github,docker,kubernetes,aws,gcp" />
+
+</div>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,angular,mysql,sqlite,git,github,docker,kubernetes,aws,gcp,vscode" />
 
