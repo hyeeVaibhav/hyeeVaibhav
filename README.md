@@ -30,21 +30,11 @@ Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project o
 
 <div align="center">
 
-# ⚡ TECH STACK
+## 💻 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,mysql,sqlite,git,github,docker,kubernetes,aws,vscode&perline=8"/>
-
-</div>
-
----
-
-**Currently Learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-orange?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full_Stack-success?style=for-the-badge)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,nodejs,angular,mysql,sqlite,redis,docker,kubernetes,git,github,aws,gcp" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hyeeVaibhav&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
