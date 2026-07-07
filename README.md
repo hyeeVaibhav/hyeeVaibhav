@@ -135,15 +135,35 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
----
+name: Generate Snake
 
-# 🌍 3D Contribution Calendar
+on:
+  schedule:
+    - cron: "0 */12 * * *"
 
-<div align="center">
+  workflow_dispatch:
 
-<img src="https://raw.githubusercontent.com/hyeeVaibhav/hyeeVaibhav/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-</div>
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hyeeVaibhav
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 # 🚀 Featured Projects
 
