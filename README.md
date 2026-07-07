@@ -129,17 +129,6 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 ---
 
-# 🎵 Spotify
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=7c3aed&bar_color_cover=false"/>
-
-</a>
-
-</div>
-
 # 🚀 Featured Projects
 
 <table>
@@ -172,8 +161,6 @@ A continuously growing collection of notes for technical interviews.
 </td>
 
 <td width="50%" valign="top">
-
----
 
 ## 💻 Learning JavaScript
 
