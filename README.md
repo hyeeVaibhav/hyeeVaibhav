@@ -117,8 +117,15 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
+
+# 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
 
 # Contribution Activity
 
@@ -164,14 +171,6 @@ A continuously growing collection of notes for technical interviews.
 <td width="50%" valign="top">
 
 ---
-
-# 👾 Pacman Contribution Game
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hyeeVaibhav/hyeeVaibhav/output/pacman-contribution-graph-dark.svg">
-
-</div>
 
 ## 💻 Learning JavaScript
 
