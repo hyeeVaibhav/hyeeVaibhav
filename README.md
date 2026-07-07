@@ -163,6 +163,16 @@ A continuously growing collection of notes for technical interviews.
 
 <td width="50%" valign="top">
 
+---
+
+# 👾 Pacman Contribution Game
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hyeeVaibhav/hyeeVaibhav/output/pacman-contribution-graph-dark.svg">
+
+</div>
+
 ## 💻 Learning JavaScript
 
 A repository documenting my JavaScript learning journey through concepts, examples and practice programs.
@@ -264,4 +274,5 @@ Made with ❤️ by **Vaibhav Singh**
 
 </div>
 
+add a game 
 
