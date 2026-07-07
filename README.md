@@ -1,53 +1,284 @@
-# 💫 Hi 👋, I'm Vaibhav
-**A passionate AIML Engineer || Aspiring DevOps And Full Stack Engineer || Student @srmist
+# MASTER PROMPT — Create a Premium GitHub Profile README
 
-Email Me 👉 ✉️ **vaibhavsingh46614@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Act as an award-winning GitHub Profile Designer.
 
-- 🔭 **I’m currently working on:** hmmmmm.....
-- 🌱 **I’m currently learning:** Full-Stack Web Development, Data Structures & Algorithms, and Machine         Learning
-- 👯 **I’m looking to collaborate on:** Open-source projects related to Web Development, Machine               Learning, and Data Analytics
-- 🤔 **I’m looking for help with:** Building real-world projects and improving problem-solving skills
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** vaibhavsingh46614@gmail.com
-- ⚡ **Fun fact:** If there's a bug in the code, I'll find it... eventually. 😅
+Your task is to generate a **complete `README.md`** for my GitHub profile.
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=hyeeVaibhav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+I do NOT want explanations.
 
-## 📈 Contribution Graph
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+I do NOT want placeholders.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/2005_vaibhavsingh)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Vaibhav37636021)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vaibhavsingh46614@gmail.com)
+I do NOT want an outline.
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,nodejs,angular,mysql,sqlite,redis,docker,kubernetes,git,github,aws,gcp" />
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hyeeVaibhav&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hyeeVaibhav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hyeeVaibhav&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hyeeVaibhav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I want the **ENTIRE README** inside one markdown block, ready to paste into GitHub.
 
 ---
-[![](https://komarev.com/ghpvc/?username=hyeeVaibhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My Information
+
+**Name:** Vaibhav Singh
+
+**GitHub Username:** hyeeVaibhav
+
+**Email:** [vaibhavsingh46614@gmail.com](mailto:vaibhavsingh46614@gmail.com)
+
+**Instagram:** https://instagram.com/2005_vaibhavsingh
+
+**X:** https://x.com/Vaibhav37636021
+
+**Role**
+
+AIML Engineer
+
+Aspiring Full Stack Developer
+
+DevOps Enthusiast
+
+Computer Science Student
+
+---
+
+## Theme
+
+Create the profile in a
+
+* Dark
+* Luxury
+* Minimal
+* Modern
+* Apple Inspired
+* GitHub Inspired
+* Vercel Inspired
+
+style.
+
+Use premium spacing.
+
+No unnecessary emojis.
+
+Elegant badges.
+
+---
+
+## Must Include
+
+### 1. Animated Header
+
+Use
+
+* Capsule Render Banner
+* Typing SVG Animation
+
+---
+
+### 2. Professional Introduction
+
+Write a short professional introduction.
+
+Mention
+
+* AIML Student
+* Full Stack Developer
+* DevOps Enthusiast
+* Open Source Learner
+* DSA Enthusiast
+* Cloud Computing
+* Machine Learning
+
+---
+
+### 3. Beautiful About Section
+
+Include
+
+Current Focus
+
+Learning
+
+Career Goal
+
+Open To Collaboration
+
+Fun Fact
+
+---
+
+### 4. Tech Stack
+
+Use Skill Icons.
+
+Languages
+
+C
+
+C++
+
+Java
+
+Python
+
+JavaScript
+
+Frontend
+
+HTML
+
+CSS
+
+Angular
+
+Backend
+
+Node.js
+
+Databases
+
+MySQL
+
+SQLite
+
+Redis
+
+Cloud
+
+AWS
+
+Google Cloud
+
+DevOps
+
+Docker
+
+Kubernetes
+
+Git
+
+GitHub
+
+---
+
+### 5. GitHub Analytics
+
+Include
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+Contribution Graph
+
+GitHub Trophies
+
+Snake Animation
+
+Profile Views
+
+Followers
+
+---
+
+### 6. Featured Projects
+
+Create premium project cards.
+
+Leave placeholders for
+
+Project Name
+
+Description
+
+GitHub Link
+
+Tech Stack
+
+---
+
+### 7. Current Learning
+
+Show inside a YAML code block.
+
+Learning
+
+Building
+
+Exploring
+
+Reading
+
+Goal
+
+---
+
+### 8. Coding Profiles
+
+Include badges for
+
+LeetCode
+
+CodeChef
+
+GeeksforGeeks
+
+HackerRank
+
+---
+
+### 9. Connect Section
+
+GitHub
+
+Email
+
+Instagram
+
+X
+
+---
+
+### 10. Footer
+
+Create a premium footer.
+
+Bottom center
+
+Designed & Maintained by Vaibhav Singh
+
+---
+
+## Design Rules
+
+Use HTML where needed.
+
+Center align major sections.
+
+Use cards.
+
+Use SVG widgets.
+
+Use badges.
+
+Use premium gradients.
+
+Use consistent spacing.
+
+No broken widgets.
+
+No deprecated GitHub widgets.
+
+Everything must work on GitHub.
+
+Everything must be responsive.
+
+No placeholder usernames.
+
+Use my username:
+
+hyeeVaibhav
+
+Use my email everywhere appropriate.
+
+The finished README should look like it belongs to a Software Engineer at Google, Microsoft, OpenAI, Stripe, or Vercel.
+
+Return ONLY the README.md code inside one markdown block.
