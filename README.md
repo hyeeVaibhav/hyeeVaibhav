@@ -228,35 +228,6 @@ A desktop application built using **Python**, **Tkinter**, and **MySQL** for man
 
 ---
 
-## 📚 Current Journey
-
-```text
-💻 Building
-│
-├── Full Stack Development
-├── Placement Preparation Notes
-└── JavaScript Practice
-
-📖 Learning
-│
-├── Docker
-├── Kubernetes
-├── AWS
-└── Backend Development
-
-🧠 Practicing
-│
-├── DSA
-├── Problem Solving
-└── Git & GitHub
-
-🎯 Goal
-│
-└── Software Engineering Internship
-```
-
----
-
 # 🌐 Let's Connect
 
 <div align="center">
