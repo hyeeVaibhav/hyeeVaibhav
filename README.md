@@ -80,6 +80,16 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
+
+</div>
+
+---
+
 # Tech Stack
 
 ### Languages
