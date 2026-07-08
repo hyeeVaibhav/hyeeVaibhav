@@ -281,4 +281,3 @@ A desktop application built using **Python**, **Tkinter**, and **MySQL** for man
 Made with ❤️ by **Vaibhav Singh**
 
 </div>
-i want when someone hover over my tech stuff logos then its name appear on hovering
