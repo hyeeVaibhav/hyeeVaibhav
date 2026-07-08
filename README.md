@@ -165,6 +165,8 @@ A continuously growing collection of notes for technical interviews.
 - DBMS
 - Operating Systems
 - Computer Networks
+- System Design
+- Interview Preparation
 
 <p align="center">
 
