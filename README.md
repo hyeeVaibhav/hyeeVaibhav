@@ -137,7 +137,6 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
----
 
 # 💻 LeetCode
 
@@ -146,8 +145,6 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
 
 </div>
-
----
 
 # 🚀 Featured Projects
 
