@@ -68,11 +68,15 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </tr>
 </table>
 
-🎧 Currently Listening
+---
 
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
-</p>
+# 🎧 Currently Listening
+
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+
+</div>
 
 # Tech Stack
 
