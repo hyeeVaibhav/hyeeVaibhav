@@ -36,7 +36,7 @@ I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learni
 
 I believe the best way to learn is by building, experimenting, and improving every day.
 
----
+<!--
 
 <table>
 <tr>
@@ -68,7 +68,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </tr>
 </table>
 
----
+--->
 
 # 📅 Contribution Calendar
 
@@ -77,25 +77,6 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
 
 </div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-contributions-api.deno.dev/hyeeVaibhav.svg?bg=0d1117&fg=7C3AED" />
-
-</div>
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
-
-</div>
-
 ---
 
 # Tech Stack
