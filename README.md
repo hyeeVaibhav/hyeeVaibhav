@@ -70,15 +70,13 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 ---
 
-# 🎧 Currently Listening
+# 📅 Contribution Calendar
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3152ic4q6ay5zt5w66gra3xkb2si&cover_image=true&theme=tokyonight&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false"/>
+<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
 
 </div>
-
----
 
 # 📈 GitHub Activity Graph
 
