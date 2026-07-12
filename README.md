@@ -89,15 +89,11 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="https://skillicons.dev/icons?i=aws" height="32"/>
 </td>
 
-<!-- Future Certificates -->
-
 <td align="center">
-<!--
-<a href="certificates/next-certificate.pdf">
-<img src="certificates/next-certificate.png" width="120"/>
+<a href="certificates/deloitte-v-intern-certificate.pdf">
+<img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32"/>
--->
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" height="28"/>
 </td>
 
 </tr>
