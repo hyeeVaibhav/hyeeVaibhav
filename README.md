@@ -102,6 +102,26 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <p align="left">
 </p>
 
+# GitHub Dashboard
+
+<table align="center">
+<tr>
+<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+
+<td>
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
 # 📅 Contribution Calendar
 
 <div align="center">
@@ -115,21 +135,6 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <div align="center">
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
-
-</div>
-
----
-# GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
