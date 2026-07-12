@@ -93,11 +93,14 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="https://cdn.simpleicons.org/deloitte/86BC25" height="32"/>
+<img src="assets/deloitte-logo.png" height="32"/>
 </td>
 
 </tr>
 </table>
+
+<p align="left">
+</p>
 
 # 📅 Contribution Calendar
 
