@@ -46,20 +46,30 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <div align="left">
 
-**🟡 Languages**
+#### 🟡 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-**🟠 Frontend**
+<br>
+
+#### 🟠 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
-**🔴 Backend**
+<br>
+
+#### 🔴 Backend
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-**🟡 Databases**
+<br>
+
+#### 🟡 Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
-**🟠 DevOps & Cloud**
+<br>
+
+#### 🟠 DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
+
+</div>
 
 ## 🏆 Certifications
 
