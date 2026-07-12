@@ -96,6 +96,20 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="Assets/deloitte-logo-01.png" height="28"/>
 </td>
 
+<td align="center">
+<a href="certificates/plasmid-intern-certificate.pdf">
+<img src="certificates/plasmid-intern-certificate.png" width="120"/>
+</a><br>
+<img src="Assets/deloitte-logo-01.png" height="28"/>
+</td>
+
+<td align="center">
+<a href="certificates/udemy-certificate.pdf">
+<img src="https://raw.githubusercontent.com/<username>/<repo>/<branch>/certificates/udemy-certificate.png" width="120">
+</a><br>
+<img src="Assets/deloitte-logo-01.png" height="28"/>
+</td>
+
 </tr>
 </table>
 
