@@ -158,64 +158,83 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
-# 🚀 Must-See Repositories
+<!-- ====================================================== -->
+<!--                 🚀 MUST SEE REPOSITORY                 -->
+<!-- ====================================================== -->
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=🚀%20Must-See%20Repository&fontSize=28&fontColor=FFFFFF&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=1200&color=FFD54F&center=true&vCenter=true&width=650&lines=Placement+Preparation+Notes.;DSA+%7C+Core+Subjects+%7C+Interview+Prep.;Everything+in+One+Place."/>
+
+<br><br>
 
 ### 📘 Placement Preparation Notes
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;Continuously+Updated+Notes."/>
+**A complete repository for placement preparation covering DSA, Core CS Subjects, Interview Questions, Roadmaps and Resources.**
 
-> **A curated repository of interview preparation notes, roadmaps, and essential CS concepts.**
-
-| 📚 Topic | 📚 Topic |
-|:--:|:--:|
-| Data Structures & Algorithms | JavaScript |
+| 📚 Includes | 📚 Includes |
+|:-----------:|:-----------:|
+| DSA | JavaScript |
 | DBMS | Operating Systems |
 | Computer Networks | System Design |
-| HR Interview Questions | Interview Preparation |
+| HR Interview Questions | Aptitude |
 
-<p align="center">
-  <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
+<img src="https://img.shields.io/badge/⭐%20View%20Repository-FF7043?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<br><br><br>
+
+<!-- ====================================================== -->
+<!--                   🌐 LET'S CONNECT                     -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&text=🌐%20Let's%20Connect&fontSize=28&fontColor=FFFFFF&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
+<br><br>
+
+<a href="mailto:vaibhavsingh46614@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hyeeVaibhav">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD54F"/>
+</a>
+
+<a href="https://instagram.com/2005_vaibhavsingh">
+<img src="https://img.shields.io/badge/Instagram-FF7043?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Vaibhav37636021">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFD54F"/>
+</a>
+
+</div>
+
+<br><br>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### ✨ Thanks for Stopping By!
 
-> *"Keep Learning. Keep Building. Keep Growing."*
+> **Keep Learning • Keep Building • Keep Growing 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:7C3AED,100:2563EB"/>
+<br>
 
-Made with ❤️ by **Vaibhav Singh**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
+### ❤️ Made with Passion by **Vaibhav Singh**
 
 </div>
-can we do whole readme in same theme as in my banner 
