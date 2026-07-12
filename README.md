@@ -144,30 +144,22 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 ### 📘 Placement Preparation Notes
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;System+Design+%26+JavaScript+Resources.;Continuously+Updated+Notes."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;Continuously+Updated+Notes."/>
 
 > **A curated repository of interview preparation notes, roadmaps, and essential CS concepts.**
 
-| 📚 **Topic** | 📚 **Topic** |
-|:------------:|:------------:|
+| 📚 Topic | 📚 Topic |
+|:--:|:--:|
 | Data Structures & Algorithms | JavaScript |
 | DBMS | Operating Systems |
 | Computer Networks | System Design |
 | HR Interview Questions | Interview Preparation |
 
-<br>
-
-<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeeVaibhav&repo=Placement-Preparation-Notes&theme=tokyonight&hide_border=true"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 # 🌐 Let's Connect
 
