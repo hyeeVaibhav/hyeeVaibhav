@@ -40,11 +40,11 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <!--                     💻 TECH STACK                      -->
 <!-- ====================================================== -->
 
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=42&text=💻%20Tech%20Stack&fontSize=22&fontColor=FFFFFF&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
-<br><br>
+<br>
+
+<div align="left">
 
 ### 🟡 Languages
 
