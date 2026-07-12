@@ -207,7 +207,6 @@ A repository documenting my JavaScript learning journey through concepts, exampl
 <tr>
 
 <td>
----
 
 # 🌐 Let's Connect
 
