@@ -44,47 +44,17 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </p>
 
 <p align="center">
-  <i>Continuously learning and expanding my cloud, AI, and software engineering expertise.</i>
-</p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="50%">
-
 <a href="./certificates/aws-cloud-first-steps.pdf">
-<img src="./certificates/aws-cloud-first-steps.png" alt="AWS SimuLearn: Cloud First Steps" width="100%">
+<img src="./certificates/aws-cloud-first-steps.png" width="320"/>
 </a>
-
-### ☁️ AWS SimuLearn: Cloud First Steps
-
-**Provider:** AWS Training & Certification  
-📅 **Completed:** July 10, 2026
-
-<a href="./certificates/aws-cloud-first-steps.pdf">📄 View Certificate</a>
-
-</td>
-
-<td align="center" width="50%">
 
 <a href="./certificates/aws-cloud-computing-essentials.pdf">
-<img src="./certificates/aws-cloud-computing-essentials.png" alt="AWS SimuLearn: Cloud Computing Essentials" width="100%">
+<img src="./certificates/aws-cloud-computing-essentials.png" width="320"/>
 </a>
-
-### ☁️ AWS SimuLearn: Cloud Computing Essentials
-
-**Provider:** AWS Training & Certification  
-📅 **Completed:** July 10, 2026
-
-<a href="./certificates/aws-cloud-computing-essentials.pdf">📄 View Certificate</a>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
-  🚀 <b>More certifications coming soon...</b>
+🚀 More certifications coming soon...
 </p>
 
 # 📅 Contribution Calendar
