@@ -104,23 +104,15 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 # GitHub Dashboard
 
-<table align="center">
-<tr>
-<td>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
-</td>
+<div align="center">
 
-<td>
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<tr>
-<td colspan="2" align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 # 📅 Contribution Calendar
 
