@@ -61,6 +61,8 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 ## 🏆 Certifications
 
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
 <div align="center">
 
 <br>
@@ -114,8 +116,6 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </table>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 </div>
 
