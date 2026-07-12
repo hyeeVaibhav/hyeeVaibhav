@@ -1,28 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111827,35:FBBF24,70:F87171,100:1F2937&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:1D4ED8,70:3B82F6,100:38BDF8&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FBBF24&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer."/>
-
-<br><br>
-
-<a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer."/>
 
 </div>
 
