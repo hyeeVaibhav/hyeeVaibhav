@@ -150,3 +150,118 @@ Every project I build teaches me something new, and every challenge motivates me
 </table>
 
 ---
+<h2 align="center">📊 GitHub Dashboard</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFD54F&icon_color=FF7043&text_color=FFFFFF"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=gruvbox&hide_border=true&ring=FFD54F&fire=FF7043&currStreakLabel=FFD54F&background=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFD54F&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<div align="center">
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=FFD54F&line=FF7043&point=E53935)](https://github.com/hyeeVaibhav)
+
+</div>
+
+---
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/FFD54F/hyeeVaibhav" alt="GitHub Contribution Chart"/>
+
+</div>
+
+---
+
+<h2 align="center">🏅 GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hyeeVaibhav&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+<h2 align="center">💻 LeetCode</h2>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
+
+> ⚠️ Replace **YOUR_LEETCODE_USERNAME** with your actual LeetCode username.
+
+---
+
+<h2 align="center">⚙️ Coding Profiles</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FF7043?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hyeeVaibhav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-FFD54F?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-E53935?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">📌 My Journey</h2>
+
+```text
+🎯 Started with Programming
+      │
+      ▼
+☕ Java & Python
+      │
+      ▼
+🌐 Web Development
+      │
+      ▼
+🗄 Databases
+      │
+      ▼
+☁ Cloud Computing
+      │
+      ▼
+🐳 Docker & Kubernetes
+      │
+      ▼
+🤖 Artificial Intelligence
+      │
+      ▼
+🚀 Software Engineering
+```
+
+---
+
