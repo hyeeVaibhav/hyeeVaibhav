@@ -140,73 +140,34 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 # 🚀 Must-See Repositories
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+### 📘 Placement Preparation Notes
 
-## 📘 Placement Preparation Notes
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;System+Design+%26+JavaScript+Resources.;Continuously+Updated+Notes."/>
 
-A continuously growing collection of notes for technical interviews.
+> **A curated repository of interview preparation notes, roadmaps, and essential CS concepts.**
 
-**Topics**
-
-- Data Structures & Algorithms
-- JavaScript
-- HR Interview Questions
-- DBMS
-- Operating Systems
-- Computer Networks
-- System Design
-- Interview Preparation
-
-<p align="center">
-
-<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💻 Learning JavaScript
-
-A repository documenting my JavaScript learning journey through concepts, examples and practice programs.
-
-**Topics**
-
-- Basics
-- Arrays
-- Objects
-- Functions
-- DOM
-- ES6+
-
-<p align="center">
-
-<a href="https://github.com/hyeeVaibhav/Learning-JavaScript">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-</table>
+| 📚 **Topic** | 📚 **Topic** |
+|:------------:|:------------:|
+| Data Structures & Algorithms | JavaScript |
+| DBMS | Operating Systems |
+| Computer Networks | System Design |
+| HR Interview Questions | Interview Preparation |
 
 <br>
 
-<table>
+<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeeVaibhav&repo=Placement-Preparation-Notes&theme=tokyonight&hide_border=true"/>
+</a>
 
-<tr>
+<br><br>
 
-<td>
+<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 # 🌐 Let's Connect
 
