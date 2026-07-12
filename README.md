@@ -4,74 +4,104 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FFD54F&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FFD54F&center=true&vCenter=true&width=850&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer.;Turning+Ideas+into+Reality."/>
 
 <br><br>
 
 <a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF7043?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E53935?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-FFD54F?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
 
 </div>
 
 ---
-# About Me
 
-I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student who enjoys building software and continuously learning modern technologies.
+<h2 align="center">🔥 About Me</h2>
 
-I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
+<div align="center">
 
-I believe the best way to learn is by building, experimenting, and improving every day.
+*"Learning never exhausts the mind; it only fuels the journey."*
+
+</div>
+
+I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student passionate about creating impactful software and continuously improving my engineering skills.
+
+I enjoy building practical applications while exploring technologies that shape the future. My interests span across **Artificial Intelligence, Machine Learning, Full Stack Development, DevOps, Cloud Computing**, and **Data Structures & Algorithms**.
+
+Every project I build teaches me something new, and every challenge motivates me to become a better engineer.
 
 ---
 
-# Tech Stack
+<h2 align="center">⚡ Current Focus</h2>
 
-### Languages
+<table align="center">
+<tr>
+<td>
 
-<p>
+- 🌱 Learning **Advanced JavaScript**
+- 💻 Solving **DSA Problems**
+- ☁️ Exploring **AWS & DevOps**
+- 🤖 Building **Machine Learning Projects**
+- 🚀 Creating **Full Stack Applications**
+- 📚 Improving **System Design Knowledge**
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<div align="center">
+
+### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
-</p>
 
-### Frontend
+<br><br>
 
-<p>
+### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
-</p>
 
-### Backend
+<br><br>
 
-<p>
+### ⚙ Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
 
-### Databases
+<br><br>
 
-<p>
+### 🗄 Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
-</p>
 
-### DevOps & Cloud
+<br><br>
 
-<p>
+### ☁ DevOps & Cloud
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
-</p>
 
-## 🏆 Certifications
+</div>
 
-<table>
+---
+
+<h2 align="center">🏆 Certifications</h2>
+
+<table align="center">
 <tr>
 
 <td align="center">
@@ -85,14 +115,14 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="25"/>
+<img src="Assets/deloitte-logo-01.png" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/plasmid-intern-certificate.pdf">
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/plasmid.png" height="25"/>
+<img src="Assets/plasmid.png" height="28"/>
 </td>
 
 <td align="center">
@@ -106,7 +136,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <a href="certificates/udemy-certificate.pdf">
 <img src="certificates/ml-certificate.png" width="120"/>
 </a><br>
-<img src="https://cdn.simpleicons.org/udemy/A435F0" height="27"/>
+<img src="https://cdn.simpleicons.org/udemy/A435F0" height="28"/>
 </td>
 
 <td align="center">
@@ -119,102 +149,4 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </tr>
 </table>
 
-<p align="left">
-</p>
-
-# GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
-
-</div>
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
-
-</div>
-
-# 💻 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
-
-</div>
-
-# 🚀 Must-See Repositories
-
-<div align="center">
-
-### 📘 Placement Preparation Notes
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;Continuously+Updated+Notes."/>
-
-> **A curated repository of interview preparation notes, roadmaps, and essential CS concepts.**
-
-| 📚 Topic | 📚 Topic |
-|:--:|:--:|
-| Data Structures & Algorithms | JavaScript |
-| DBMS | Operating Systems |
-| Computer Networks | System Design |
-| HR Interview Questions | Interview Preparation |
-
-<p align="center">
-  <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
-
 ---
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-> *"Keep Learning. Keep Building. Keep Growing."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:7C3AED,100:2563EB"/>
-
-Made with ❤️ by **Vaibhav Singh**
-
-</div>
