@@ -105,7 +105,14 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <td align="center">
 <a href="certificates/udemy-certificate.pdf">
-<img src="certificates/test.png" width="120"/>
+<img src="certificates/ml-certificate.png" width="120"/>
+</a><br>
+<img src="Assets/deloitte-logo-01.png" height="28"/>
+</td>
+
+<td align="center">
+<a href="certificates/SQL-Ceritificate.pdf">
+<img src="certificates/sql.png" width="120"/>
 </a><br>
 <img src="Assets/deloitte-logo-01.png" height="28"/>
 </td>
