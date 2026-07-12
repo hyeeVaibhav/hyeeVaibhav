@@ -36,44 +36,6 @@ I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learni
 
 I believe the best way to learn is by building, experimenting, and improving every day.
 
-## 🏆 Certifications
-
-<p align="center">
-  <a href="certificates/aws-cloud-first-steps.pdf">
-    <img src="certificates/aws-cloud-first-steps.png" width="130" alt="AWS Cloud First Steps"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="certificates/aws-cloud-computing-essentials.pdf">
-    <img src="certificates/aws-cloud-computing-essentials.png" width="130" alt="AWS Cloud Computing Essentials"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<p align="center">
-  🚀 More certifications coming soon...
-</p>
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
-
-</div>
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
-
-</div>
-
 ---
 
 # Tech Stack
@@ -108,8 +70,40 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 </p>
 
----
+## 🏆 Certifications
+<p align="center">
+  <a href="certificates/aws-cloud-first-steps.pdf">
+    <img src="certificates/aws-cloud-first-steps.png" width="120"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="certificates/aws-cloud-computing-essentials.pdf">
+    <img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
+</p>
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
+
+</div>
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
+
+</div>
+
+---
 # GitHub Dashboard
 
 <div align="center">
