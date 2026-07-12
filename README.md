@@ -71,21 +71,37 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </p>
 
 ## 🏆 Certifications
-<p align="center">
-  <a href="certificates/aws-cloud-first-steps.pdf">
-    <img src="certificates/aws-cloud-first-steps.png" width="120"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="certificates/aws-cloud-computing-essentials.pdf">
-    <img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="35"/>
-</p>
+<table>
+<tr>
+
+<td align="center">
+<a href="certificates/aws-cloud-first-steps.pdf">
+<img src="certificates/aws-cloud-first-steps.png" width="120"/>
+</a><br>
+<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+</td>
+
+<td align="center">
+<a href="certificates/aws-cloud-computing-essentials.pdf">
+<img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
+</a><br>
+<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+</td>
+
+<!-- Future Certificates -->
+
+<td align="center">
+<!--
+<a href="certificates/next-certificate.pdf">
+<img src="certificates/next-certificate.png" width="120"/>
+</a><br>
+<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+-->
+</td>
+
+</tr>
+</table>
 
 # 📅 Contribution Calendar
 
