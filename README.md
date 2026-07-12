@@ -69,6 +69,14 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </table>
 
 --->
+## 🏆 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20First%20Steps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+📚 More certifications coming soon...
 
 # 📅 Contribution Calendar
 
