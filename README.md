@@ -114,7 +114,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <a href="certificates/SQL-Ceritificate.pdf">
 <img src="certificates/sql.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=mysql" height="28"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
 </td>
 
 </tr>
@@ -135,19 +135,19 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
-
-</div>
-
 # 📈 GitHub Activity Graph
 
 <div align="center">
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
+
+</div>
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
 
 </div>
 
