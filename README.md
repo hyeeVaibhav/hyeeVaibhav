@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:1D4ED8,70:3B82F6,100:38BDF8&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111827,35:EC4899,70:F472B6,100:FBCFE8&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=F472B6&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer."/>
 
 </div>
 
