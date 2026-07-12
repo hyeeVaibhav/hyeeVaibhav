@@ -112,13 +112,13 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <td align="center">
 <a href="certificates/SQL-Certificate.pdf">
+<img src="SQL-Certificate.png" width="120"/>
 </a><br>
 <img src="Assets/deloitte-logo-01.png" height="28"/>
 </td>
 
 </tr>
 </table>
-<img src="SQL-Certificate.png" width="120"/>
 
 <p align="left">
 </p>
