@@ -138,7 +138,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
-# 🚀 Featured Projects
+# 🚀 Must-See Repositories
 
 <table>
 <tr>
@@ -207,35 +207,6 @@ A repository documenting my JavaScript learning journey through concepts, exampl
 <tr>
 
 <td>
-
-## 🗄 Criminal Database Management System
-
-A desktop application built using **Python**, **Tkinter**, and **MySQL** for managing criminal records through an intuitive graphical interface.
-
-### Features
-
-- Record Management
-- Search
-- Update
-- Delete
-- Database Integration
-- GUI Interface
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 # 🌐 Let's Connect
