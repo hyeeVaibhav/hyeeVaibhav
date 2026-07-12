@@ -35,46 +35,34 @@ I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student
 I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
 
 I believe the best way to learn is by building, experimenting, and improving every day.
-
-<!--
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🚀 Currently
-
-- 🔭 Building Full Stack Projects
-- 📘 Preparing Placement Notes
-- 💻 Learning JavaScript
-- 🌱 Exploring Backend Development
-
-</td>
-
-<td width="50%">
-
-## 🎯 Focus
-
-- ⚙️ DevOps
-- ☁️ AWS
-- 🐳 Docker
-- ☸ Kubernetes
-- 🧠 Machine Learning
-- 📚 DSA
-
-</td>
-
-</tr>
-</table>
-
 --->
+
 ## 🏆 Certifications
 
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud%20First%20Steps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
+
+<table>
+<tr>
+<td align="center">
+<a href="./certificates/aws-cloud-first-steps.pdf">
+<img src="./certificates/aws-cloud-first-steps.png" width="350"/>
+</a>
+
+**AWS SimuLearn: Cloud First Steps**
+</td>
+
+<td align="center">
+<a href="./certificates/aws-cloud-computing-essentials.pdf">
+<img src="./certificates/aws-cloud-computing-essentials.png" width="350"/>
+</a>
+
+**AWS SimuLearn: Cloud Computing Essentials**
+</td>
+</tr>
+</table>
 
 📚 More certifications coming soon...
 
