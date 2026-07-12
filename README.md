@@ -26,48 +26,35 @@
 
 </div>
 
----
-# About Me
+## 👋 About Me
 
-I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student who enjoys building software and continuously learning modern technologies.
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
+I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student passionate about building impactful software and continuously learning modern technologies.
 
 I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
 
-I believe the best way to learn is by building, experimenting, and improving every day.
+I believe the best way to learn is by **building, experimenting, and improving every day.**
 
----
+## 💻 Tech Stack
 
-<!-- ====================================================== -->
-<!--                     💻 TECH STACK                      -->
-<!-- ====================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=42&text=💻%20Tech%20Stack&fontSize=22&fontColor=FFFFFF&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
-
-<br>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="left">
 
-#### 🟡 Languages
+**🟡 Languages**  
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-<br>
-
-#### 🟠 Frontend
+**🟠 Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
-<br>
-
-#### 🔴 Backend
+**🔴 Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<br>
-
-#### 🟡 Databases
+**🟡 Databases**  
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
-<br>
-
-#### 🟠 DevOps & Cloud
+**🟠 DevOps & Cloud**  
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
 </div>
