@@ -126,11 +126,11 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&bg_color=0D1117&title_color=FFD54F&text_color=FFFFFF&icon_color=FF7043&border_color=E53935&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&background=0D1117&ring=FFD54F&fire=FF7043&currStreakLabel=FFD54F&sideLabels=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&border=E53935&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&bg_color=0D1117&title_color=FFD54F&text_color=FFFFFF&border_color=E53935&hide_border=true"/>
 
 </div>
 
@@ -138,7 +138,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <div align="center">
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&bg_color=0D1117&color=FFFFFF&line=FF7043&point=FFD54F&area=true&area_color=FF7043&title_color=FFD54F&hide_border=true)](https://github.com/hyeeVaibhav)
 
 </div>
 
@@ -146,7 +146,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
+<img src="https://ghchart.rshah.org/FFD54F/hyeeVaibhav" alt="Vaibhav's Github chart" />
 
 </div>
 
