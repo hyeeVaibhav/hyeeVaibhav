@@ -4,104 +4,74 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FFD54F&center=true&vCenter=true&width=850&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer.;Turning+Ideas+into+Reality."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FFD54F&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer."/>
 
 <br><br>
 
 <a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF7043?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E53935?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-FFD54F?style=for-the-badge&logo=x&logoColor=black"/>
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
 
 </div>
 
 ---
+# About Me
 
-<h2 align="center">🔥 About Me</h2>
+I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student who enjoys building software and continuously learning modern technologies.
 
-<div align="center">
+I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
 
-*"Learning never exhausts the mind; it only fuels the journey."*
-
-</div>
-
-I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student passionate about creating impactful software and continuously improving my engineering skills.
-
-I enjoy building practical applications while exploring technologies that shape the future. My interests span across **Artificial Intelligence, Machine Learning, Full Stack Development, DevOps, Cloud Computing**, and **Data Structures & Algorithms**.
-
-Every project I build teaches me something new, and every challenge motivates me to become a better engineer.
+I believe the best way to learn is by building, experimenting, and improving every day.
 
 ---
 
-<h2 align="center">⚡ Current Focus</h2>
+# Tech Stack
 
-<table align="center">
-<tr>
-<td>
+### Languages
 
-- 🌱 Learning **Advanced JavaScript**
-- 💻 Solving **DSA Problems**
-- ☁️ Exploring **AWS & DevOps**
-- 🤖 Building **Machine Learning Projects**
-- 🚀 Creating **Full Stack Applications**
-- 📚 Improving **System Design Knowledge**
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-
-### 💻 Languages
-
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+</p>
 
-<br><br>
+### Frontend
 
-### 🎨 Frontend
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
+</p>
 
-<br><br>
+### Backend
 
-### ⚙ Backend
-
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
 
-<br><br>
+### Databases
 
-### 🗄 Databases
-
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
+</p>
 
-<br><br>
+### DevOps & Cloud
 
-### ☁ DevOps & Cloud
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
+</p>
 
-</div>
+## 🏆 Certifications
 
----
-
-<h2 align="center">🏆 Certifications</h2>
-
-<table align="center">
+<table>
 <tr>
 
 <td align="center">
@@ -115,14 +85,14 @@ Every project I build teaches me something new, and every challenge motivates me
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="28"/>
+<img src="Assets/deloitte-logo-01.png" height="25"/>
 </td>
 
 <td align="center">
 <a href="certificates/plasmid-intern-certificate.pdf">
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/plasmid.png" height="28"/>
+<img src="Assets/plasmid.png" height="25"/>
 </td>
 
 <td align="center">
@@ -136,7 +106,7 @@ Every project I build teaches me something new, and every challenge motivates me
 <a href="certificates/udemy-certificate.pdf">
 <img src="certificates/ml-certificate.png" width="120"/>
 </a><br>
-<img src="https://cdn.simpleicons.org/udemy/A435F0" height="28"/>
+<img src="https://cdn.simpleicons.org/udemy/A435F0" height="27"/>
 </td>
 
 <td align="center">
@@ -149,58 +119,38 @@ Every project I build teaches me something new, and every challenge motivates me
 </tr>
 </table>
 
----
-<h2 align="center">📊 GitHub Dashboard</h2>
+<p align="left">
+</p>
+
+# GitHub Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFD54F&icon_color=FF7043&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=gruvbox&hide_border=true&ring=FFD54F&fire=FF7043&currStreakLabel=FFD54F&background=00000000"/>
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+# 📈 GitHub Activity Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFD54F&text_color=FFFFFF"/>
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyeeVaibhav)
 
 </div>
 
----
-
-<h2 align="center">📈 GitHub Activity</h2>
+# 📅 Contribution Calendar
 
 <div align="center">
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=FFD54F&line=FF7043&point=E53935)](https://github.com/hyeeVaibhav)
+<img src="https://ghchart.rshah.org/7C3AED/hyeeVaibhav" alt="Vaibhav's Github chart" />
 
 </div>
 
----
-
-<h2 align="center">📅 Contribution Calendar</h2>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/FFD54F/hyeeVaibhav" alt="GitHub Contribution Chart"/>
-
-</div>
-
----
-
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hyeeVaibhav&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
-
-<h2 align="center">💻 LeetCode</h2>
+# 💻 LeetCode
 
 <div align="center">
 
@@ -208,60 +158,64 @@ Every project I build teaches me something new, and every challenge motivates me
 
 </div>
 
-> ⚠️ Replace **YOUR_LEETCODE_USERNAME** with your actual LeetCode username.
-
----
-
-<h2 align="center">⚙️ Coding Profiles</h2>
+# 🚀 Must-See Repositories
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FF7043?style=for-the-badge&logo=leetcode&logoColor=white"/>
+### 📘 Placement Preparation Notes
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;Continuously+Updated+Notes."/>
+
+> **A curated repository of interview preparation notes, roadmaps, and essential CS concepts.**
+
+| 📚 Topic | 📚 Topic |
+|:--:|:--:|
+| Data Structures & Algorithms | JavaScript |
+| DBMS | Operating Systems |
+| Computer Networks | System Design |
+| HR Interview Questions | Interview Preparation |
+
+<p align="center">
+  <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:vaibhavsingh46614@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hyeeVaibhav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-FFD54F?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<a href="https://instagram.com/2005_vaibhavsingh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-E53935?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://x.com/Vaibhav37636021">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">📌 My Journey</h2>
+<div align="center">
 
-```text
-🎯 Started with Programming
-      │
-      ▼
-☕ Java & Python
-      │
-      ▼
-🌐 Web Development
-      │
-      ▼
-🗄 Databases
-      │
-      ▼
-☁ Cloud Computing
-      │
-      ▼
-🐳 Docker & Kubernetes
-      │
-      ▼
-🤖 Artificial Intelligence
-      │
-      ▼
-🚀 Software Engineering
-```
+### Thanks for stopping by 👋
 
----
+> *"Keep Learning. Keep Building. Keep Growing."*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:7C3AED,100:2563EB"/>
+
+Made with ❤️ by **Vaibhav Singh**
+
+</div>
+can we do whole readme in same theme as in my banner 
