@@ -40,17 +40,18 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 <p align="center">
   <a href="certificates/aws-cloud-first-steps.pdf">
-    <img src="certificates/aws-cloud-first-steps.png" width="180" alt="AWS Cloud First Steps"/>
+    <img src="certificates/aws-cloud-first-steps.png" width="130" alt="AWS Cloud First Steps"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="certificates/aws-cloud-computing-essentials.pdf">
-    <img src="certificates/aws-cloud-computing-essentials.png" width="180" alt="AWS Cloud Computing Essentials"/>
+    <img src="certificates/aws-cloud-computing-essentials.png" width="130" alt="AWS Cloud Computing Essentials"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20First%20Steps-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 <p align="center">
