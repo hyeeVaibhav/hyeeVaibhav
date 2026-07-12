@@ -35,26 +35,57 @@ I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student
 I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
 
 I believe the best way to learn is by building, experimenting, and improving every day.
---->
-<table>
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20First%20Steps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>Continuously learning and expanding my cloud, AI, and software engineering expertise.</i>
+</p>
+
+<table align="center">
 <tr>
-<td align="center">
+
+<td align="center" width="50%">
+
 <a href="./certificates/aws-cloud-first-steps.pdf">
-<img src="./certificates/aws-cloud-first-steps.png" width="350"/>
-</a><br>
+<img src="./certificates/aws-cloud-first-steps.png" alt="AWS SimuLearn: Cloud First Steps" width="100%">
+</a>
 
-<b>AWS SimuLearn: Cloud First Steps</b>
+### ☁️ AWS SimuLearn: Cloud First Steps
+
+**Provider:** AWS Training & Certification  
+📅 **Completed:** July 10, 2026
+
+<a href="./certificates/aws-cloud-first-steps.pdf">📄 View Certificate</a>
+
 </td>
 
-<td align="center">
+<td align="center" width="50%">
+
 <a href="./certificates/aws-cloud-computing-essentials.pdf">
-<img src="./certificates/aws-cloud-computing-essentials.png" width="350"/>
-</a><br>
+<img src="./certificates/aws-cloud-computing-essentials.png" alt="AWS SimuLearn: Cloud Computing Essentials" width="100%">
+</a>
 
-<b>AWS SimuLearn: Cloud Computing Essentials</b>
+### ☁️ AWS SimuLearn: Cloud Computing Essentials
+
+**Provider:** AWS Training & Certification  
+📅 **Completed:** July 10, 2026
+
+<a href="./certificates/aws-cloud-computing-essentials.pdf">📄 View Certificate</a>
+
 </td>
+
 </tr>
 </table>
+
+<p align="center">
+  🚀 <b>More certifications coming soon...</b>
+</p>
 
 # 📅 Contribution Calendar
 
