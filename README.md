@@ -93,7 +93,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logos.png" height="30"/>
+<img src="Assets/deloitte-logos.png" height="38"/>
 </td>
 
 </tr>
