@@ -36,35 +36,25 @@ I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learni
 
 I believe the best way to learn is by building, experimenting, and improving every day.
 --->
-
-## 🏆 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20First%20Steps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
 <table>
 <tr>
 <td align="center">
 <a href="./certificates/aws-cloud-first-steps.pdf">
 <img src="./certificates/aws-cloud-first-steps.png" width="350"/>
-</a>
+</a><br>
 
-**AWS SimuLearn: Cloud First Steps**
+<b>AWS SimuLearn: Cloud First Steps</b>
 </td>
 
 <td align="center">
 <a href="./certificates/aws-cloud-computing-essentials.pdf">
 <img src="./certificates/aws-cloud-computing-essentials.png" width="350"/>
-</a>
+</a><br>
 
-**AWS SimuLearn: Cloud Computing Essentials**
+<b>AWS SimuLearn: Cloud Computing Essentials</b>
 </td>
 </tr>
 </table>
-
-📚 More certifications coming soon...
 
 # 📅 Contribution Calendar
 
