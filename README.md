@@ -93,28 +93,28 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="28"/>
+<img src="Assets/deloitte-logo-01.png" height="25"/>
 </td>
 
 <td align="center">
 <a href="certificates/plasmid-intern-certificate.pdf">
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="28"/>
+<img src="Assets/deloitte-logo-01.png" height="25"/>
 </td>
 
 <td align="center">
 <a href="certificates/udemy-certificate.pdf">
 <img src="certificates/ml-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="28"/>
+<img src="Assets/deloitte-logo-01.png" height="25"/>
 </td>
 
 <td align="center">
 <a href="certificates/SQL-Ceritificate.pdf">
 <img src="certificates/sql.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="28"/>
+<img src="Assets/deloitte-logo-01.png" height="25"/>
 </td>
 
 </tr>
