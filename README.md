@@ -132,21 +132,23 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
-# GitHub Dashboard
+## 📊 GitHub Dashboard
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=gruvbox&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=gruvbox&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=gruvbox&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ## 📈 GitHub Activity Graph
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="center">
 
@@ -154,11 +156,9 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
----
-
 ## 📅 Contribution Calendar
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="center">
 
@@ -166,11 +166,9 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
----
-
 ## 💻 LeetCode
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="center">
 
@@ -178,21 +176,15 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
----
-
 ## 🚀 Must-See Repository
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=1200&color=FFD54F&center=true&vCenter=true&width=650&lines=Placement+Preparation+Notes.;DSA+%7C+Core+Subjects+%7C+Interview+Prep.;Everything+in+One+Place."/>
-
-<br><br>
-
 ### 📘 Placement Preparation Notes
 
-A complete repository covering **DSA, Core Subjects, Interview Questions, Roadmaps & Resources**.
+A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps & Resources.**
 
 | 📚 Includes | 📚 Includes |
 |:-----------:|:-----------:|
@@ -201,22 +193,44 @@ A complete repository covering **DSA, Core Subjects, Interview Questions, Roadma
 | Computer Networks | System Design |
 | HR Interviews | Aptitude |
 
-<br>
-
 <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
 <img src="https://img.shields.io/badge/⭐%20View%20Repository-FF7043?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
-
 ## 🌐 Let's Connect
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <div align="center">
 
-<!-- Your badges -->
+<a href="mailto:vaibhavsingh46614@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hyeeVaibhav">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD54F"/>
+</a>
+
+<a href="https://instagram.com/2005_vaibhavsingh">
+<img src="https://img.shields.io/badge/Instagram-FF7043?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Vaibhav37636021">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFD54F"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### ✨ Thanks for Stopping By!
+
+> **Keep Learning • Keep Building • Keep Growing 🚀**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
+### ❤️ Made with Passion by **Vaibhav Singh**
 
 </div>
