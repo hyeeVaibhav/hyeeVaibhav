@@ -89,15 +89,11 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="https://skillicons.dev/icons?i=aws" height="32"/>
 </td>
 
-<!-- Future Certificates -->
-
 <td align="center">
-<!--
-<a href="certificates/next-certificate.pdf">
-<img src="certificates/next-certificate.png" width="120"/>
+<a href="certificates/deloitte-v-intern-certificate.pdf">
+<img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32"/>
--->
+<img src="https://cdn.simpleicons.org/deloitte/86BC25" height="32"/>
 </td>
 
 </tr>
@@ -142,105 +138,28 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
-# 🚀 Featured Projects
+# 🚀 Must-See Repositories
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+### 📘 Placement Preparation Notes
 
-## 📘 Placement Preparation Notes
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Master+DSA+for+Coding+Interviews.;Learn+DBMS%2C+OS+%26+Computer+Networks.;Crack+HR+Interviews+with+Confidence.;Continuously+Updated+Notes."/>
 
-A continuously growing collection of notes for technical interviews.
+> **A curated repository of interview preparation notes, roadmaps, and essential CS concepts.**
 
-**Topics**
-
-- Data Structures & Algorithms
-- JavaScript
-- HR Interview Questions
-- DBMS
-- Operating Systems
-- Computer Networks
-- System Design
-- Interview Preparation
+| 📚 Topic | 📚 Topic |
+|:--:|:--:|
+| Data Structures & Algorithms | JavaScript |
+| DBMS | Operating Systems |
+| Computer Networks | System Design |
+| HR Interview Questions | Interview Preparation |
 
 <p align="center">
-
-<a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
+  <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💻 Learning JavaScript
-
-A repository documenting my JavaScript learning journey through concepts, examples and practice programs.
-
-**Topics**
-
-- Basics
-- Arrays
-- Objects
-- Functions
-- DOM
-- ES6+
-
-<p align="center">
-
-<a href="https://github.com/hyeeVaibhav/Learning-JavaScript">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-
-<tr>
-
-<td>
-
-## 🗄 Criminal Database Management System
-
-A desktop application built using **Python**, **Tkinter**, and **MySQL** for managing criminal records through an intuitive graphical interface.
-
-### Features
-
-- Record Management
-- Search
-- Update
-- Delete
-- Database Integration
-- GUI Interface
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🌐 Let's Connect
 
