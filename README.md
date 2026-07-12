@@ -71,7 +71,15 @@ I believe the best way to learn is by building, experimenting, and improving eve
 
 </div>
 
-## 🏆 Certifications
+<!-- ====================================================== -->
+<!--                  🏆 CERTIFICATIONS                     -->
+<!-- ====================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=42&text=🏆%20Certifications&fontSize=22&fontColor=FFFFFF&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
+<br>
+
+<fieldset style="border:2px solid #FF7043; border-radius:14px; padding:18px;">
 
 <table>
 <tr>
@@ -121,8 +129,7 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </tr>
 </table>
 
-<p align="left">
-</p>
+</fieldset>
 
 # GitHub Dashboard
 
