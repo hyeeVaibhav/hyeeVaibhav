@@ -83,13 +83,6 @@ I believe the best way to learn is by building, experimenting, and improving eve
 </td>
 
 <td align="center">
-<a href="certificates/aws-cloud-computing-essentials.pdf">
-<img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
-</a><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32"/>
-</td>
-
-<td align="center">
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
@@ -101,6 +94,13 @@ I believe the best way to learn is by building, experimenting, and improving eve
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
 <img src="Assets/plasmid.png" height="25"/>
+</td>
+
+<td align="center">
+<a href="certificates/aws-cloud-computing-essentials.pdf">
+<img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
+</a><br>
+<img src="https://skillicons.dev/icons?i=aws" height="32"/>
 </td>
 
 <td align="center">
