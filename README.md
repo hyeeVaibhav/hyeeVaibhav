@@ -36,47 +36,41 @@ I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learni
 I believe the best way to learn is by building, experimenting, and improving every day.
 
 ---
+<!-- ====================================================== -->
+<!--                     💻 TECH STACK                      -->
+<!-- ====================================================== -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=42&text=💻%20Tech%20Stack&fontSize=22&fontColor=FFFFFF&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Languages-FFD54F?style=for-the-badge&logo=code&logoColor=000000"/>
-
-<br><br>
+### 🟡 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Frontend-FF7043?style=for-the-badge"/>
-
-<br><br>
+### 🟠 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Backend-E53935?style=for-the-badge"/>
-
-<br><br>
+### 🔴 Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Databases-FFD54F?style=for-the-badge"/>
-
-<br><br>
+### 🟡 Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-FF7043?style=for-the-badge"/>
-
-<br><br>
+### 🟠 DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
