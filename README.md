@@ -9,31 +9,62 @@
 
 </p>
 
-<div align="center">
-
-<!-- ========================= HERO BANNER ========================= -->
-
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
-
-<br>
-
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+🚀"/> -->
-
-<br>
+<!-- ====================== NAVIGATION ====================== -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&color=8A2BE2&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
-<img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-certifications">Certifications</a> •
+<a href="#-github-dashboard">Dashboard</a> •
+<a href="#-featured-repository">Projects</a> •
+<a href="#-lets-connect">Contact</a>
+
 </p>
 
+<div align="center">
+
+<!-- ====================== HERO BANNER ====================== -->
+
+<img
+width="92%"
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
+
+<br><br>
+
+<!-- ====================== TYPING ANIMATION ====================== -->
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=2300&pause=900&color=FFD700&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Vaibhav+Singh;Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer+in+Progress;DevOps+%7C+Cloud+%7C+Machine+Learning;Building+Projects+That+Matter;Learning+Something+New+Every+Day+🚀"/>
+
+<br><br>
+
+<!-- ====================== PROFILE STATS ====================== -->
+
 <p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&style=flat-square&color=8A2BE2"/>
+
+<img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
+
+<img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
+
+</p>
+
+<!-- ====================== SOCIAL LINKS ====================== -->
+
+<p align="center">
+
 <a href="mailto:vaibhavsingh46614@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hyeeVaibhav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/2005_vaibhavsingh">
@@ -43,9 +74,16 @@
 <a href="https://x.com/Vaibhav37636021">
 <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
+
 </p>
 
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
+<br>
+
+<!-- ====================== BOTTOM WAVE ====================== -->
+
+<img
+width="92%"
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
 
 </div>
 
