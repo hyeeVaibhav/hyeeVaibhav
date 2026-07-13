@@ -67,19 +67,6 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </tr>
 </table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hyeeVaibhav/hyeeVaibhav/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeeVaibhav&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyeeVaibhav&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeeVaibhav&theme=github_dark"/>
-</p>
-
 # 🎛️ Tech Stack
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
@@ -243,6 +230,10 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 </a>
 
 </div>
+
+<p align="center">
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeeVaibhav&theme=github_dark"/>
+</p>
 
 # 🌐 Let's Connect
 
