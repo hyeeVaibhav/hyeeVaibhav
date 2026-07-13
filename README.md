@@ -1,7 +1,12 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:8A2BE2,50:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=62&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&duration=2200&pause=900&color=FF0080&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
+<h1 style="font-family:Poppins;">
+<span style="color:#8A2BE2">Va</span><span style="color:#FF0080">ib</span><span style="color:#FF8C00">ha</span><span style="color:#FFD700">v </span><span style="color:#FF0080">Sin</span><span style="color:#8A2BE2">gh</span>
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&lines=AIML+Student+%E2%9C%A6+Full+Stack+Learner+%E2%9C%A6+DevOps+Enthusiast"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&duration=2200&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
 
 <br>
 
