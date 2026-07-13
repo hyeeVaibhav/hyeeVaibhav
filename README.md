@@ -1,15 +1,22 @@
 <!-- ====================== NAVIGATION ====================== -->
 
-<p align="center">
+<div align="center">
 
-<a href="#-about-me">About</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-certifications">Certifications</a> •
-<a href="#-github-dashboard">Dashboard</a> •
-<a href="#-featured-repository">Projects</a> •
-<a href="#-lets-connect">Contact</a>
+<a href="#about-me">About</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#tech-stack">Tech Stack</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#certifications">Certifications</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#github-dashboard">Dashboard</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#featured-repository">Projects</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#lets-connect">Contact</a>
 
-</p>
+</div>
+
+<br>
 
 <!-- ====================== HERO ====================== -->
 
