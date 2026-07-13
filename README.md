@@ -1,46 +1,50 @@
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
-
 <div align="center">
 
-<!-- Animated Gradient Banner -->
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20%E2%9C%A6%20Full%20Stack%20Learner%20%E2%9C%A6%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
+<!-- ========================= HERO BANNER ========================= -->
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80"/>
+<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
 
-<!-- Profile Stats -->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+🚀"/>
+
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&color=8A2BE2&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
-  <img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
+<img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&color=8A2BE2&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
+<img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
 </p>
 
-<!-- Social Links -->
 <p align="center">
-  <a href="mailto:vaibhavsingh46614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hyeeVaibhav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/2005_vaibhavsingh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Vaibhav37636021">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
-  </a>
+<a href="mailto:vaibhavsingh46614@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hyeeVaibhav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/2005_vaibhavsingh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Vaibhav37636021">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
 </p>
 
-<img
-  width="92%"
-  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
-## ⚡ ABOUT ME
+<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+</div>
+
+# ⚡ About Me
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <table width="100%">
 <tr>
-<td width="100%">
+<td>
 
 I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student passionate about building impactful software and continuously learning modern technologies.
 
@@ -52,40 +56,35 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </tr>
 </table>
 
-<br>
+# 🎛️ Tech Stack
 
-## 🎛️ TECH STACK
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+### 💻 Languages
 
-<div align="left">
-
-#### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-#### 🎨 Frontend
+### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
-#### ⚙️ Backend
+### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-#### 🗄️ Databases
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
-#### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
-</div>
+# 🏆 Certifications
 
-<br>
-
-## 🏆 CERTIFICATIONS
-
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
-
-<br>
 
 <table>
 <tr>
@@ -135,27 +134,25 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </tr>
 </table>
 
-<br>
-
 </div>
 
-## 📊 GITHUB DASHBOARD
+# 📊 GitHub Dashboard
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=radical&hide_border=true&background=00000000" />
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=radical&hide_border=true&background=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
 
 </div>
 
-## 📈 GITHUB ACTIVITY GRAPH
+# 📈 GitHub Activity Graph
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
 
@@ -163,9 +160,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 📅 CONTRIBUTION CALENDAR
+# 📅 Contribution Calendar
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
 
@@ -173,9 +170,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 💻 LEETCODE
+# 💻 LeetCode
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
 
@@ -183,22 +180,39 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 🚀 MUST-SEE REPOSITORY
+# 🚀 Featured Repository
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
 
-### 📘 Placement Preparation Notes
+## 📘 Placement Preparation Notes
 
-A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps & Resources.**
+A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps & Resources**.
 
-| 📚 Includes | 📚 Includes |
-|:-----------:|:-----------:|
-| DSA | JavaScript |
-| DBMS | Operating Systems |
-| Computer Networks | System Design |
-| HR Interviews | Aptitude |
+<table>
+<tr>
+<td align="center">📚 DSA</td>
+<td align="center">💻 JavaScript</td>
+</tr>
+
+<tr>
+<td align="center">🗄️ DBMS</td>
+<td align="center">⚙️ Operating Systems</td>
+</tr>
+
+<tr>
+<td align="center">🌐 Computer Networks</td>
+<td align="center">🏗️ System Design</td>
+</tr>
+
+<tr>
+<td align="center">🎯 HR Interviews</td>
+<td align="center">📝 Aptitude</td>
+</tr>
+</table>
+
+<br>
 
 <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
 <img src="https://img.shields.io/badge/⭐_VIEW_REPOSITORY-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
@@ -206,53 +220,74 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 
 </div>
 
-## 🌐 LET'S CONNECT
+# 🌐 Let's Connect
 
-<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
+
 <td align="center" width="25%">
+
 <a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br/>
-<sub><b>EMAIL</b></sub>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+**Email**
 </a>
+
 </td>
+
 <td align="center" width="25%">
+
 <a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=FFD700"/><br/>
-<sub><b>GITHUB</b></sub>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700"/>
+
+**GitHub**
 </a>
+
 </td>
+
 <td align="center" width="25%">
+
 <a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/-FF8C00?style=for-the-badge&logo=instagram&logoColor=white"/><br/>
-<sub><b>INSTAGRAM</b></sub>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+**Instagram**
 </a>
+
 </td>
+
 <td align="center" width="25%">
+
 <a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=x&logoColor=FFD700"/><br/>
-<sub><b>X</b></sub>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFD700"/>
+
+**X (Twitter)**
 </a>
+
 </td>
+
 </tr>
 </table>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-▂▃▅▇█▓▒░ THANKS FOR STOPPING BY ░▒▓█▇▅▃▂
+### ✨ Thanks for Stopping By ✨
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+> **Keep Learning • Keep Building • Keep Growing 🚀**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:8A2BE2,50:FFD700,100:FF0080"/>
+<br>
 
-### Made with Passion by **Vaibhav Singh**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
+
+### Made with ❤️ by **Vaibhav Singh**
 
 </div>
+
+
