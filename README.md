@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8A2BE2,50:FF0080,100:FF8C00&height=150&section=header&text=Vaibhav%20Singh&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8A2BE2,50:FF0080,100:FF8C00&height=150&section=header&text=Vaibhav%20Singh&fontSize=32&fontColor=ffffff&animation=blink&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&lines=AIML+Student+%E2%9C%A6+Full+Stack+Learner+%E2%9C%A6+DevOps+Enthusiast"/>
 
@@ -12,10 +12,6 @@
 <a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF0080,100:FF8C00&height=60&section=footer"/>
 
 </div>
 
