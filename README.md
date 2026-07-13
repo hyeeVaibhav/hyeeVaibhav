@@ -231,9 +231,15 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 
 </div>
 
-<p align="center">
+# 📈 GitHub Profile Summary
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
+
+<div align="center">
+
 <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeeVaibhav&theme=github_dark"/>
-</p>
+
+</div>
 
 # 🌐 Let's Connect
 
