@@ -56,41 +56,34 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="left">
 
-### ⟢ Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+**⟢ Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
-<br><br>
+<br>
 
-### ⟢ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,angular"/>
+**⟢ Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,angular" />
 
-<br><br>
+<br>
 
-### ⟢ Backend
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+**⟢ Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
-</td>
+<br>
 
-<td width="60"></td>
+**⟢ Databases**  
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
 
-<td align="center">
+<br>
 
-### ⟢ Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
+**⟢ DevOps & Cloud**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp" />
 
-<br><br>
+</div>
 
-### ⟢ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
-
-</td>
-</tr>
-</table>
-
+<br>
 ## 🏆 CERTIFICATIONS
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
