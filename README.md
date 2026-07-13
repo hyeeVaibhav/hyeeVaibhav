@@ -67,6 +67,10 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </tr>
 </table>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/hyeeVaibhav/hyeeVaibhav/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 # 🎛️ Tech Stack
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
