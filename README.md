@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80"/>
 
 <!-- Profile Stats -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&color=8A2BE2&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
   <img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
@@ -81,7 +81,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 
-<div align="center">
+<div align="left">
 
 <br>
 
@@ -185,7 +185,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 
-<div align="center">
+<div align="left">
 
 ### 📘 Placement Preparation Notes
 
@@ -208,7 +208,7 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 
-<div align="center">
+<div align="left">
 
 <table>
 <tr>
