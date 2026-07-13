@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+🚀"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+🚀"/> -->
 
 <br>
 
