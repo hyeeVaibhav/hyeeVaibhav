@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:8A2BE2,25:FF0080,50:FF8C00,75:FFD700,100:FF0080&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=45&fontAlignY=45&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=68&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:8A2BE2,50:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=62&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&duration=2200&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&duration=2200&pause=900&color=FF0080&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
 
 <br>
 
