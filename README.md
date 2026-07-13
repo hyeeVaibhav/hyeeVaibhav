@@ -1,4 +1,4 @@
-<!--===================== NAVIGATION ====================== -->
+<!-- ====================== NAVIGATION ====================== -->
 
 <div align="center">
 
@@ -22,13 +22,13 @@
 
 <div align="center">
 
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F7971E,25:FFD200,55:21D375,100:0B8793&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
+<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,35:5C0000,65:2B0000,100:000000&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2200&pause=900&color=FFD200&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+and+Machine+Learning;Full+Stack+Developer+in+Progress;DevOps+%7C+Cloud+%7C+Machine+Learning;Building+Projects+That+Matter;Always+Learning+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2200&pause=900&color=8B0000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+and+Machine+Learning;Full+Stack+Developer+in+Progress;DevOps+%7C+Cloud+%7C+Machine+Learning;Building+Projects+That+Matter;Always+Learning+Every+Day"/>
 
 <!--<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&style=flat-square&color=FFD200"/>
-<img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=21D375"/>
+<img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&style=flat-square&color=5C0000"/>
+<img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=8B0000"/>
 <img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
 </p> -->
 
@@ -50,13 +50,13 @@
 </a>
 </p>
 
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:F7971E,25:FFD200,55:21D375,100:0B8793&animation=twinkling"/>
+<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:8B0000,35:5C0000,65:2B0000,100:000000&animation=twinkling"/>
 
 </div>
 
 # ⚡ About Me
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <table width="100%">
 <tr>
@@ -74,7 +74,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 # 🎛️ Tech Stack
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 ### 💻 Languages
 
@@ -98,7 +98,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 # 🏆 Certifications
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
@@ -154,7 +154,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 # 📊 GitHub Dashboard
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
@@ -168,27 +168,27 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 # 📈 GitHub Activity Graph
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&bg_color=00000000&color=21D375&line=FFD200&point=F7971E&area=true&area_color=0B8793&title_color=21D375&hide_border=true)](https://github.com/hyeeVaibhav)
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&bg_color=00000000&color=8B0000&line=5C0000&point=B22222&area=true&area_color=000000&title_color=8B0000&hide_border=true)](https://github.com/hyeeVaibhav)
 
 </div>
 
 # 📅 Contribution Calendar
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/21D375/hyeeVaibhav"/>
+<img src="https://ghchart.rshah.org/8B0000/hyeeVaibhav"/>
 
 </div>
 
 # 💻 LeetCode
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
@@ -198,7 +198,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 # 🚀 Featured Repository
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
@@ -231,14 +231,14 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 <br>
 
 <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-<img src="https://img.shields.io/badge/⭐_VIEW_REPOSITORY-21D375?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_VIEW_REPOSITORY-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 # 🌐 Let's Connect
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 <div align="center">
 
@@ -258,7 +258,7 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 <td align="center" width="25%">
 
 <a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD200"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=B22222"/>
 
 **GitHub**
 </a>
@@ -278,7 +278,7 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 <td align="center" width="25%">
 
 <a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFD200"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=B22222"/>
 
 **X (Twitter)**
 </a>
@@ -298,7 +298,7 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 
 > **Keep Learning • Keep Building • Keep Growing 🚀**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:8B0000,35:5C0000,65:2B0000,100:000000"/>
 
 ### Made with ❤️ by **Vaibhav Singh**
 
