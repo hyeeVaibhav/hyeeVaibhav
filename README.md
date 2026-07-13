@@ -1,3 +1,15 @@
+<div align="center">
+
+<!-- Animated Gradient Banner -->
+<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20%E2%9C%A6%20Full%20Stack%20Learner%20%E2%9C%A6%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
+
+<br>
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80"/>
+
+<br><br>
+
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&color=8A2BE2&style=flat-square"/>
