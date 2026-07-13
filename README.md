@@ -40,7 +40,7 @@
 
 <img
   width="92%"
-  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=60&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
   
 </div>
 
