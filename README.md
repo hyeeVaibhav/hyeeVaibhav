@@ -58,32 +58,25 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <div align="left">
 
-**⟢ Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-<br>
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
-**⟢ Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,angular" />
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<br>
+#### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
-**⟢ Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-<br>
-
-**⟢ Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
-
-<br>
-
-**⟢ DevOps & Cloud**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp" />
+#### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
 </div>
 
 <br>
+
 ## 🏆 CERTIFICATIONS
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
