@@ -38,8 +38,10 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=35&color=0:6A11CB,35:8A2BE2,70:FF0080,100:FF8C00&section=footer"/>
-
+<img
+  width="88%"
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=28&fontAlignY=72&animation=twinkling"/>
+  
 </div>
 
 ## ⚡ ABOUT ME
