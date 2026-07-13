@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8A2BE2,50:FF0080,100:FF8C00&height=150&section=header&text=Vaibhav%20Singh&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<svg width="700" height="140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8A2BE2"/>
+      <stop offset="33%" style="stop-color:#FF0080"/>
+      <stop offset="66%" style="stop-color:#FF8C00"/>
+      <stop offset="100%" style="stop-color:#FFD700"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="55%" text-anchor="middle" font-family="Poppins, sans-serif" font-weight="800" font-size="64" fill="url(#grad)">Vaibhav Singh</text>
+  <rect x="150" y="100" width="400" height="4" fill="url(#grad)" rx="2"/>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&lines=AIML+Student+%E2%9C%A6+Full+Stack+Learner+%E2%9C%A6+DevOps+Enthusiast"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=20&duration=2200&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
 
 <br>
 
