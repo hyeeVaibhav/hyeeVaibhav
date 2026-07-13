@@ -1,232 +1,167 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C&text=VAIBHAV%20SINGH&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=twinkling&desc=🖍️%20AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast%20🖍️&descAlignY=58"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:FF0080,25:FF8C00,50:FFD700,75:FF0080,100:8A2BE2&text=VAIBHAV%20SINGH&fontColor=ffffff&fontSize=62&fontAlignY=35&animation=twinkling&desc=✦%20AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast%20✦&descAlignY=58"/>
 <br>
-
-```
-        ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒
-       ( ZOINK! A README appeared! )
-        ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒
-              \
-               \    ∧__∧
-                \  (  ・∀・)  < Ora wa Vaibhav dazo!!
-                  (    づ
-                  し ⌒J
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=FF4B3E&center=true&vCenter=true&width=850&lines=BOING!+Building+one+project+at+a+time.;ZOOM!+Learning+something+new+every+day.;POW!+Aspiring+Software+Engineer.;Action+Kamen%2C+HENSHIN!+%F0%9F%A6%B8"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&duration=2200&pause=900&color=FF0080&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
+<br>
+<img src="https://img.shields.io/badge/STATUS-BUILDING_STUFF-FF0080?style=for-the-badge&labelColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/MOOD-CAFFEINATED-FFD700?style=for-the-badge&labelColor=FF8C00"/>
+<img src="https://img.shields.io/badge/CHAOS_LEVEL-MAXIMUM-8A2BE2?style=for-the-badge&labelColor=FF0080"/>
 <br><br>
 
-<a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/📧_POKE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFD93D"/></a>
-<a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/📸_INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/🐦_X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
-
 <br>
+<div align="center">
+▂▃▅▇█▓▒░ SCROLL FOR CHAOS ░▒▓█▇▅▃▂
 
-> 🖍️ **CRAYON REPORT CARD** — *stamped by Shiro the dog* 🐾
->
-> "This human writes code the way I chase Nene's snacks — full speed, zero hesitation."
-
+</div>
 <br>
+⚡ ABOUT ME
 
-## 💥 ABOUT ME <sub><sup>(no pants required to read this)</sup></sub>
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<table width="100%">
+<tr>
+<td width="100%">
+I'm Vaibhav Singh, an Artificial Intelligence & Machine Learning student passionate about building impactful software and continuously learning modern technologies.
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
+I'm currently exploring Full Stack Development, DevOps, Machine Learning, and Data Structures & Algorithms, while building projects that strengthen my engineering fundamentals.
 
-I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student passionate about building impactful software and continuously learning modern technologies.
+I believe the best way to learn is by building, experimenting, and improving every day.
 
-I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
-
-I believe the best way to learn is by **building, experimenting, and improving every day** — with the chaotic energy of a five-year-old who just discovered a whiteboard marker. 🖍️💥
-
+</td>
+</tr>
+</table>
 <br>
+🎛️ TECH STACK
 
-## 🎨 TECH STACK <sub><sup>(the crayon box)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 <div align="left">
-
-**🟡 Languages — the OG box of 8**
+⟢ Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-**🟠 Frontend — makin' it pretty**
+⟢ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
-**🔴 Backend — the engine room**
+⟢ Backend
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-**🟡 Databases — where the snacks are hidden**
+⟢ Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
-**🟠 DevOps & Cloud — Action Kamen's utility belt**
+⟢ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
 </div>
-
 <br>
+🏆 CERTIFICATIONS
 
-## 🏅 CERTIFICATIONS <sub><sup>(gold stars from Futaba Kindergarten)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 <div align="center">
-
 <br>
-
 <table>
 <tr>
-
 <td align="center">
 <a href="certificates/aws-cloud-first-steps.pdf">
 <img src="certificates/aws-cloud-first-steps.png" width="120"/>
 </a><br>
 <img src="https://skillicons.dev/icons?i=aws" height="32"/>
 </td>
-
 <td align="center">
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
 <img src="Assets/deloitte-logo-01.png" height="25"/>
 </td>
-
 <td align="center">
 <a href="certificates/plasmid-intern-certificate.pdf">
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
 <img src="Assets/plasmid.png" height="25"/>
 </td>
-
 <td align="center">
 <a href="certificates/aws-cloud-computing-essentials.pdf">
 <img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
 </a><br>
 <img src="https://skillicons.dev/icons?i=aws" height="32"/>
 </td>
-
 <td align="center">
 <a href="certificates/udemy-certificate.pdf">
 <img src="certificates/ml-certificate.png" width="120"/>
 </a><br>
 <img src="https://cdn.simpleicons.org/udemy/A435F0" height="27"/>
 </td>
-
 <td align="center">
 <a href="certificates/SQL-Ceritificate.pdf">
 <img src="certificates/sql.png" width="120"/>
 </a><br>
 <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
 </td>
-
 </tr>
 </table>
-
 <br>
+</div>
+📊 GITHUB DASHBOARD
+
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=radical&hide_border=true&background=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+</div>
+📈 GITHUB ACTIVITY GRAPH
+
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
+<div align="center">
+Show Image
 
 </div>
+📅 CONTRIBUTION CALENDAR
 
-## 📊 GITHUB DASHBOARD <sub><sup>(Shiro is watching every commit)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=solarized-light&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=solarized-light&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&theme=solarized-light&hide_border=true" />
-
+<img src="https://ghchart.rshah.org/FF0080/hyeeVaibhav"/>
 </div>
+💻 LEETCODE
 
-## 📈 GITHUB ACTIVITY GRAPH <sub><sup>(running from Mom like it's dinner time)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 <div align="center">
-
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&bg_color=FFFFFF&color=FF4B3E&line=FF914D&point=FFD93D&area=true&area_color=FFD93D&title_color=FF4B3E&hide_border=true)](https://github.com/hyeeVaibhav)
-
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
 </div>
+🚀 MUST-SEE REPOSITORY
 
-## 📅 CONTRIBUTION CALENDAR <sub><sup>(crayon marks on the living room wall)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 <div align="center">
+📘 Placement Preparation Notes
 
-<img src="https://ghchart.rshah.org/FF914D/hyeeVaibhav"/>
+A complete repository for DSA, Core CS Subjects, Interview Questions, Roadmaps & Resources.
 
-</div>
-
-## 💻 LEETCODE <sub><sup>(Kasukabe Coding Dojo)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Poppins&ext=contest"/>
-
-</div>
-
-## 🚀 MUST-SEE REPOSITORY <sub><sup>(the legendary scroll of Kasukabe)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
-<div align="center">
-
-### 📘 Placement Preparation Notes
-
-A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps & Resources.**
-
-| 📚 Includes | 📚 Includes |
-|:-----------:|:-----------:|
-| DSA | JavaScript |
-| DBMS | Operating Systems |
-| Computer Networks | System Design |
-| HR Interviews | Aptitude |
+📚 Includes📚 IncludesDSAJavaScriptDBMSOperating SystemsComputer NetworksSystem DesignHR InterviewsAptitude
 
 <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-<img src="https://img.shields.io/badge/⭐_VIEW_REPOSITORY-FF914D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_VIEW_REPOSITORY-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
+🌐 LET'S CONNECT
 
-## 🌐 LET'S CONNECT <sub><sup>(high-five required)</sup></sub>
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
-
+<img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 <div align="center">
-
-<a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B3E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD93D"/></a>
-<a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/Instagram-FF914D?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=FFD93D"/></a>
+<a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
+<a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=FFD700"/></a>
 
 </div>
-
 <br>
-
 <div align="center">
+▂▃▅▇█▓▒░ THANKS FOR STOPPING BY ░▒▓█▇▅▃▂
 
-### ✨ THANKS FOR STOPPING BY! ✨
+Keep Learning • Keep Building • Keep Growing 🚀
 
-> **Keep Learning • Keep Building • Keep Growing 🚀**
-> *"Zo zo zo~! Elegant... elegant~"* 🖍️
-
-```
-   .・゜゜・ THE END ・゜゜・.
-        ( see you tomorrow, dazo! )
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=130&section=footer&color=0:2C2C2C,45:FF4B3E,75:FF914D,100:FFEE58"/>
-
-### ❤️ Made with Passion (and crayons) by **Vaibhav Singh**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:8A2BE2,50:FFD700,100:FF0080"/>
+Made with Passion by Vaibhav Singh
 
 </div>
