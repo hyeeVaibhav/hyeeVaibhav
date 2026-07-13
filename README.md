@@ -293,8 +293,6 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 
 > **Keep Learning • Keep Building • Keep Growing 🚀**
 
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00"/>
 
 ### Made with ❤️ by **Vaibhav Singh**
