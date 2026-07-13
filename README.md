@@ -56,22 +56,30 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 
-<div align="left">
+<div align="center">
 
-**⟢ Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+### ⟢ Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
-**⟢ Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,angular"/>
+<br><br>
 
-**⟢ Backend**
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+### ⟢ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,angular" />
 
-**⟢ Databases**
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
+<br><br>
 
-**⟢ DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
+### ⟢ Backend
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+<br><br>
+
+### ⟢ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
+
+<br><br>
+
+### ⟢ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp" />
 
 </div>
 
