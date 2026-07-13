@@ -1,10 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,25:FF0080,50:FF8C00,75:FFD700,100:FF0080&text=VAIBHAV%20SINGH&fontColor=ffffff&fontSize=70&fontAlignY=32&animation=fadeIn&fontFamily=Poppins&desc=AIML%20Student%20✦%20Full%20Stack%20Learner%20✦%20DevOps%20Enthusiast&descAlignY=52&descSize=18"/>
+<img width="100%" height="10" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:FF0080,25:FF8C00,50:FFD700,75:FF0080,100:8A2BE2"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/⟢_VAIBHAV_SINGH_⟣-FF0080?style=for-the-badge&labelColor=000000&fontSize=40"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AIML_STUDENT-8A2BE2?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FULL_STACK_LEARNER-FF8C00?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/DEVOPS_ENTHUSIAST-FFD700?style=flat-square&labelColor=000000"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/STATUS-BUILDING_STUFF-FF0080?style=for-the-badge&labelColor=8A2BE2"/></td>
+<td align="center"><img src="https://img.shields.io/badge/MOOD-CAFFEINATED-FFD700?style=for-the-badge&labelColor=FF8C00"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CHAOS_LEVEL-MAXIMUM-8A2BE2?style=for-the-badge&labelColor=FF0080"/></td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&duration=2200&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Building+one+project+at+a+time+%E2%9C%A6;%E2%9C%A6+Learning+something+new+every+day+%E2%9C%A6;%E2%9C%A6+Aspiring+Software+Engineer+%E2%9C%A6"/>
 
 <br>
+
+<img width="100%" height="10" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:8A2BE2,25:FF0080,50:FFD700,75:FF8C00,100:FF0080"/>
+
+<br><br>
 
 <a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -12,16 +38,6 @@
 <a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-### ▂▃▅▇█▓▒░ SCROLL FOR CHAOS ░▒▓█▇▅▃▂
-
-</div>
-
-<br>
 
 ## ⚡ ABOUT ME
 
