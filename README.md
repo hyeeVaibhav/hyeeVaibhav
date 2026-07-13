@@ -19,11 +19,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+and+Machine+Learning;Full+Stack+Developer+in+Progress;DevOps+%7C+Cloud+%7C+Machine+Learning;Building+Projects+That+Matter;Always+Learning+Every+Day"/>
 
-<p align="center">
+<!--<p align="center">
 <img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&style=flat-square&color=8A2BE2"/>
 <img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
 <img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
-</p>
+</p> -->
 
 <p align="center">
 <a href="mailto:vaibhavsingh46614@gmail.com">
