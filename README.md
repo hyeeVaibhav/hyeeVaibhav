@@ -1,3 +1,5 @@
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,30:FFD54F,60:FF7043,100:E53935"/>
+
 <div align="center">
 
 <!-- Animated Gradient Banner -->
