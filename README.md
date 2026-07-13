@@ -1,49 +1,29 @@
-<div align="center">
+<!-- Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/hyeeVaibhav?style=flat-square&color=FF0080"/>
+  <img src="https://img.shields.io/github/stars/hyeeVaibhav?style=flat-square&color=FF8C00"/>
+</p>
 
-<!-- Animated Gradient Banner -->
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20%E2%9C%A6%20Full%20Stack%20Learner%20%E2%9C%A6%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
-
-<br>
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Full+Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80"/>
-
-<br><br>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=hyeeVaibhav&style=for-the-badge&color=8A2BE2"/>
-
-<img src="https://img.shields.io/github/followers/hyeeVaibhav?style=for-the-badge&color=FF0080&labelColor=181717"/>
-
-<img src="https://img.shields.io/github/stars/hyeeVaibhav?style=for-the-badge&color=FF8C00&labelColor=181717"/>
-
-<br><br>
-
-<!-- Socials -->
-<a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br><br>
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:vaibhavsingh46614@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hyeeVaibhav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/2005_vaibhavsingh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Vaibhav37636021">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 <img
   width="92%"
   src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
-  
-</div>
-
 ## ⚡ ABOUT ME
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
