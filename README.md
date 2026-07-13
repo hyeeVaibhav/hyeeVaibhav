@@ -298,7 +298,7 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 
 > **Keep Learning • Keep Building • Keep Growing 🚀**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/> -->
 
 ### Made with ❤️ by **Vaibhav Singh**
 
