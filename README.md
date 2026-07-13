@@ -1,3 +1,14 @@
+<p align="center">
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-certifications">Certificates</a> •
+<a href="#-github-dashboard">Dashboard</a> •
+<a href="#-featured-repository">Projects</a> •
+<a href="#-lets-connect">Contact</a>
+
+</p>
+
 <div align="center">
 
 <!-- ========================= HERO BANNER ========================= -->
