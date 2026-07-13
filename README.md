@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Gradient Banner -->
-<img width="92%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20%E2%9C%A6%20Full%20Stack%20Learner%20%E2%9C%A6%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
+<img width="82%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=twinkling&desc=AIML%20Student%20%E2%9C%A6%20Full%20Stack%20Learner%20%E2%9C%A6%20DevOps%20Enthusiast&descAlignY=56&descSize=20"/>
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <img
   width="88%"
-  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:6A11CB,25:8A2BE2,55:FF0080,100:FF8C00&animation=twinkling"/>
   
 </div>
 
