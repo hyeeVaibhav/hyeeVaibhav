@@ -1,67 +1,79 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFFFFF,30:FFD93D,60:FF914D,100:FF4B3E&text=Vaibhav%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C&text=VAIBHAV%20SINGH&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=twinkling&desc=🖍️%20AIML%20Student%20•%20Full%20Stack%20Learner%20•%20DevOps%20Enthusiast%20🖍️&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=FF914D&center=true&vCenter=true&width=800&lines=Building+one+project+at+a+time.;Learning+something+new+every+day.;Aspiring+Software+Engineer.;Action+Kamen+would+be+proud+%F0%9F%A6%B8"/>
+```
+        ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒
+       ( ZOINK! A README appeared! )
+        ⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒⌒
+              \
+               \    ∧__∧
+                \  (  ・∀・)  < Ora wa Vaibhav dazo!!
+                  (    づ
+                  し ⌒J
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=FF4B3E&center=true&vCenter=true&width=850&lines=BOING!+Building+one+project+at+a+time.;ZOOM!+Learning+something+new+every+day.;POW!+Aspiring+Software+Engineer.;Action+Kamen%2C+HENSHIN!+%F0%9F%A6%B8"/>
 
 <br><br>
 
-<a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
-</a>
+<a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/📧_POKE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFD93D"/></a>
+<a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/📸_INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/🐦_X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
 
-## 🖍️ About Me — *"Ora wa Vaibhav Singh dazo!"*
+<br>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+> 🖍️ **CRAYON REPORT CARD** — *stamped by Shiro the dog* 🐾
+>
+> "This human writes code the way I chase Nene's snacks — full speed, zero hesitation."
+
+<br>
+
+## 💥 ABOUT ME <sub><sup>(no pants required to read this)</sup></sub>
+
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 I'm **Vaibhav Singh**, an **Artificial Intelligence & Machine Learning** student passionate about building impactful software and continuously learning modern technologies.
 
 I'm currently exploring **Full Stack Development**, **DevOps**, **Machine Learning**, and **Data Structures & Algorithms**, while building projects that strengthen my engineering fundamentals.
 
-I believe the best way to learn is by **building, experimenting, and improving every day** — with the same energy Shinchan brings to annoying his mom. 🖍️
+I believe the best way to learn is by **building, experimenting, and improving every day** — with the chaotic energy of a five-year-old who just discovered a whiteboard marker. 🖍️💥
 
-## 🎨 Tech Stack — *Crayon Box of Skills*
+<br>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+## 🎨 TECH STACK <sub><sup>(the crayon box)</sup></sub>
+
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="left">
 
-**🟡 Languages**  
+**🟡 Languages — the OG box of 8**
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-**🟠 Frontend**  
+**🟠 Frontend — makin' it pretty**
 <img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
-**🔴 Backend**  
+**🔴 Backend — the engine room**
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-**🟡 Databases**  
+**🟡 Databases — where the snacks are hidden**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
-**🟠 DevOps & Cloud**  
+**🟠 DevOps & Cloud — Action Kamen's utility belt**
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
 </div>
 
-## 🏅 Certifications — *Gold Stars from Futaba Kindergarten*
+<br>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+## 🏅 CERTIFICATIONS <sub><sup>(gold stars from Futaba Kindergarten)</sup></sub>
+
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
@@ -119,9 +131,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 📊 GitHub Dashboard — *Shiro is Tracking Everything*
+## 📊 GITHUB DASHBOARD <sub><sup>(Shiro is watching every commit)</sup></sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
@@ -133,9 +145,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 📈 GitHub Activity Graph — *Running Like Shinchan Chasing Nene*
+## 📈 GITHUB ACTIVITY GRAPH <sub><sup>(running from Mom like it's dinner time)</sup></sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
@@ -143,9 +155,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 📅 Contribution Calendar — *Crayon Marks on the Wall*
+## 📅 CONTRIBUTION CALENDAR <sub><sup>(crayon marks on the living room wall)</sup></sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
@@ -153,9 +165,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 💻 LeetCode — *Kasukabe Coding Dojo*
+## 💻 LEETCODE <sub><sup>(Kasukabe Coding Dojo)</sup></sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
@@ -163,9 +175,9 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div>
 
-## 🚀 Must-See Repository — *The Legendary Scroll*
+## 🚀 MUST-SEE REPOSITORY <sub><sup>(the legendary scroll of Kasukabe)</sup></sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
@@ -181,44 +193,40 @@ A complete repository for **DSA, Core CS Subjects, Interview Questions, Roadmaps
 | HR Interviews | Aptitude |
 
 <a href="https://github.com/hyeeVaibhav/Placement-Preparation-Notes">
-<img src="https://img.shields.io/badge/⭐%20View%20Repository-FF914D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_VIEW_REPOSITORY-FF914D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-## 🌐 Let's Connect — *Give Shinchan a High Five*
+## 🌐 LET'S CONNECT <sub><sup>(high-five required)</sup></sub>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFD93D"/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFEE58,25:FF914D,55:FF4B3E,100:2C2C2C"/>
 
 <div align="center">
 
-<a href="mailto:vaibhavsingh46614@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF4B3E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hyeeVaibhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD93D"/>
-</a>
-
-<a href="https://instagram.com/2005_vaibhavsingh">
-<img src="https://img.shields.io/badge/Instagram-FF914D?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Vaibhav37636021">
-<img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=FFD93D"/>
-</a>
+<a href="mailto:vaibhavsingh46614@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B3E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hyeeVaibhav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD93D"/></a>
+<a href="https://instagram.com/2005_vaibhavsingh"><img src="https://img.shields.io/badge/Instagram-FF914D?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Vaibhav37636021"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=FFD93D"/></a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-### ✨ Thanks for Stopping By!
+### ✨ THANKS FOR STOPPING BY! ✨
 
-> **Keep Learning • Keep Building • Keep Growing 🚀**  
-> *"Zo zo zo!"* — a wise five-year-old, probably
+> **Keep Learning • Keep Building • Keep Growing 🚀**
+> *"Zo zo zo~! Elegant... elegant~"* 🖍️
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD93D,30:FF914D,60:FF4B3E,100:FFFFFF"/>
+```
+   .・゜゜・ THE END ・゜゜・.
+        ( see you tomorrow, dazo! )
+```
 
-### ❤️ Made with Passion by **Vaibhav Singh**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=130&section=footer&color=0:2C2C2C,45:FF4B3E,75:FF914D,100:FFEE58"/>
+
+### ❤️ Made with Passion (and crayons) by **Vaibhav Singh**
 
 </div>
