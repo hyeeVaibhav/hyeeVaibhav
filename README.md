@@ -56,34 +56,40 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <img width="100%" height="8" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF0080,50:FFD700,100:8A2BE2"/>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 ### ⟢ Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
 <br><br>
 
 ### ⟢ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,angular"/>
 
 <br><br>
 
 ### ⟢ Backend
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<br><br>
+</td>
+
+<td width="60"></td>
+
+<td align="center">
 
 ### ⟢ Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 
 <br><br>
 
 ### ⟢ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp"/>
 
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 ## 🏆 CERTIFICATIONS
 
