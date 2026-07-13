@@ -72,7 +72,12 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hyeeVaibhav&theme=radical&no-frame=true&column=4"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeeVaibhav&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyeeVaibhav&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeeVaibhav&theme=github_dark"/>
 </p>
 
 # 🎛️ Tech Stack
