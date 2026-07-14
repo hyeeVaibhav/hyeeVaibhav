@@ -158,7 +158,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/AI-for-Business-Professionals.pdf">
 <img src="certificates/AI-for-Business-Professionals.png" width="120"/>
 </a><br>
-<img src="Assets/HP-Logo-Transparent-PNG" height="30"/>
+<img src="Assets/HP-Logo-Transparent-PNG.png" height="30"/>
 </td>
 
 </tr>
