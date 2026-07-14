@@ -147,6 +147,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
 </td>
 
+<td align="center">
+<a href="google-analytics.pdf">
+<img src="google-analytics.png" width="120"/>
+</a><br>
+<img src="Assets/google-logo-png.webp" height="30"/>
+</td>
+
 </tr>
 </table>
 
