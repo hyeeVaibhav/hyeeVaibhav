@@ -135,13 +135,6 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 <td align="center">
-<a href="certificates/udemy-certificate.pdf">
-<img src="certificates/ml-certificate.png" width="120"/>
-</a><br>
-<img src="https://cdn.simpleicons.org/udemy/A435F0" height="27"/>
-</td>
-
-<td align="center">
 <a href="certificates/SQL-Ceritificate.pdf">
 <img src="certificates/sql.png" width="120"/>
 </a><br>
@@ -166,7 +159,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/walmart.pdf">
 <img src="certificates/walmart.png" width="120"/>
 </a><br>
-<img src="Assets/walmart.webp" height="42"/>
+<img src="Assets/walmart.webp" height="45"/>
 </td>
 
 </tr>
@@ -175,29 +168,19 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <tr>
 
-<!-- Certificate 9 -->
-<!--
 <td align="center">
-<a href="certificates/your-certificate.pdf">
-<img src="certificates/your-certificate.png" width="120"/>
+<a href="certificates/udemy-certificate.pdf">
+<img src="certificates/ml-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/your-logo.png" height="30"/>
+<img src="https://cdn.simpleicons.org/udemy/A435F0" height="27"/>
 </td>
--->
 
-<!-- Certificate 10 -->
-<!-- Paste here -->
-
-<!-- Certificate 11 -->
-<!-- Paste here -->
-
-<!-- Certificate 12 -->
-<!-- Paste here -->
-
-<!-- Certificate 13 -->
-<!-- Paste here -->
-
-<!-- Add as many certificates as you want -->
+<td align="center">
+<a href="certificates/SQL-Ceritificate.pdf">
+<img src="certificates/sql.png" width="120"/>
+</a><br>
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+</td>
 
 </tr>
 
