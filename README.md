@@ -166,7 +166,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/walmart.pdf">
 <img src="certificates/walmart.png" width="120"/>
 </a><br>
-<img src="walmart.webp" height="30"/>
+<img src="Assets/walmart.webp" height="30"/>
 </td>
 
 </tr>
