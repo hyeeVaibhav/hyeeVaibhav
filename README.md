@@ -114,17 +114,17 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 <td align="center">
+<a href="certificates/walmart.pdf">
+<img src="certificates/walmart.png" width="120"/>
+</a><br>
+<img src="Assets/walmart.webp" height="45"/>
+</td>
+
+<td align="center">
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
 <img src="Assets/deloitte-logo-01.png" height="25"/>
-</td>
-
-<td align="center">
-<a href="certificates/plasmid-intern-certificate.pdf">
-<img src="certificates/plasmid-intern-certificate.png" width="120"/>
-</a><br>
-<img src="Assets/plasmid.png" height="25"/>
 </td>
 
 <td align="center">
@@ -149,11 +149,12 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 <td align="center">
-<a href="certificates/walmart.pdf">
-<img src="certificates/walmart.png" width="120"/>
+<a href="certificates/plasmid-intern-certificate.pdf">
+<img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/walmart.webp" height="45"/>
+<img src="Assets/plasmid.png" height="25"/>
 </td>
+
 
 </tr>
 
