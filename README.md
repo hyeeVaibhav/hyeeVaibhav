@@ -162,6 +162,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <img src="Assets/HP-Logo-Transparent-PNG.png" height="30"/>
 </td>
 
+<td align="center">
+<a href="certificates/walmart.pdf">
+<img src="certificates/walmart.png" width="120"/>
+</a><br>
+<img src="walmart.webp" height="30"/>
+</td>
+
 </tr>
 
 <!-- ================= START ADDING NEW CERTIFICATES BELOW ================= -->
