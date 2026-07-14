@@ -103,6 +103,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center">
@@ -145,7 +146,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <img src="certificates/sql.png" width="120"/>
 </a><br>
 <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
-</td> 
+</td>
 
 <td align="center">
 <a href="certificates/g-analytics.pdf">
@@ -162,6 +163,39 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 </tr>
+
+<!-- ================= START ADDING NEW CERTIFICATES BELOW ================= -->
+
+<tr>
+
+<!-- Certificate 9 -->
+<!--
+<td align="center">
+<a href="certificates/your-certificate.pdf">
+<img src="certificates/your-certificate.png" width="120"/>
+</a><br>
+<img src="Assets/your-logo.png" height="30"/>
+</td>
+-->
+
+<!-- Certificate 10 -->
+<!-- Paste here -->
+
+<!-- Certificate 11 -->
+<!-- Paste here -->
+
+<!-- Certificate 12 -->
+<!-- Paste here -->
+
+<!-- Certificate 13 -->
+<!-- Paste here -->
+
+<!-- Add as many certificates as you want -->
+
+</tr>
+
+<!-- ================= END OF SECOND ROW ================= -->
+
 </table>
 
 </div>
