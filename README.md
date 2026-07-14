@@ -148,8 +148,8 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td> -->
 
 <td align="center">
-<a href="google-analytics.pdf">
-<img src="google-analytics.png" width="120"/>
+<a href="certificates/g-analytics.pdf">
+<img src="certificates/g-analytics.png" width="120"/>
 </a><br>
 <img src="Assets/google-logo-png.webp" height="30"/>
 </td>
