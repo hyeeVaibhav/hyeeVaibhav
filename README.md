@@ -140,12 +140,12 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <img src="https://cdn.simpleicons.org/udemy/A435F0" height="27"/>
 </td>
 
-<td align="center">
+<!--<td align="center">
 <a href="certificates/SQL-Ceritificate.pdf">
 <img src="certificates/sql.png" width="120"/>
 </a><br>
 <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
-</td>
+</td> -->
 
 <td align="center">
 <a href="google-analytics.pdf">
