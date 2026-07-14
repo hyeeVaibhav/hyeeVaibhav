@@ -154,6 +154,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <img src="Assets/google-logo-png.webp" height="30"/>
 </td>
 
+<td align="center">
+<a href="certificates/AI-for-Business-Professionals.pdf">
+<img src="certificates/AI-for-Business-Professionals.png" width="120"/>
+</a><br>
+<img src="Assets/HP-Logo-Transparent-PNG" height="30"/>
+</td>
+
 </tr>
 </table>
 
