@@ -135,13 +135,6 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 <td align="center">
-<a href="certificates/SQL-Ceritificate.pdf">
-<img src="certificates/sql.png" width="120"/>
-</a><br>
-<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
-</td>
-
-<td align="center">
 <a href="certificates/g-analytics.pdf">
 <img src="certificates/g-analytics.png" width="120"/>
 </a><br>
