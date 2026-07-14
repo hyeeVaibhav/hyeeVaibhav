@@ -152,7 +152,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/plasmid-intern-certificate.pdf">
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/plasmid.png" height="25"/>
+<img src="Assets/plasmid-removebg.png" height="25"/>
 </td>
 
 
