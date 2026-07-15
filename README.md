@@ -107,10 +107,10 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <tr>
 
 <td align="center">
-<a href="certificates/aws-cloud-first-steps.pdf">
-<img src="certificates/aws-cloud-first-steps.png" width="120"/>
+<a href="certificates/cisco-data-analytics.pdf">
+<img src="certificates/cisco-data-analytics.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+<img src="Assets/cisco.png" height="25"/>
 </td>
 
 <td align="center">
@@ -161,6 +161,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <!-- ================= START ADDING NEW CERTIFICATES BELOW ================= -->
 
 <tr>
+
+<td align="center">
+<a href="certificates/aws-cloud-first-steps.pdf">
+<img src="certificates/aws-cloud-first-steps.png" width="120"/>
+</a><br>
+<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+</td>
 
 <td align="center">
 <a href="certificates/cisco-data-analytics.pdf">
