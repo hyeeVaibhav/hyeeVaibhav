@@ -163,6 +163,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <tr>
 
 <td align="center">
+<a href="certificates/cisco-data-analytics.pdf">
+<img src="certificates/cisco-data-analytics.png" width="120"/>
+</a><br>
+<img src="Assets/cisco.png" height="25"/>
+</td>
+
+<td align="center">
 <a href="certificates/udemy-certificate.pdf">
 <img src="certificates/ml-certificate.png" width="120"/>
 </a><br>
