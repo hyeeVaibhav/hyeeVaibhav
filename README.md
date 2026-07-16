@@ -124,14 +124,14 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/walmart.pdf">
 <img src="certificates/walmart.png" width="120"/>
 </a><br>
-<img src="Assets/walmart.webp" height="30"/>
+<img src="Assets/walmart.webp" height="35"/>
 </td>
 
 <td align="center">
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="28"/>
+<img src="Assets/deloitte-logo-01.png" height="24"/>
 </td>
 
 <td align="center">
