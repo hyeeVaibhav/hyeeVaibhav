@@ -115,7 +115,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <td align="center">
 <a href="certificates/mcard-advisor-nd-consulting.pdf">
-<img src="certificates/mcard-advisor-nd-consulting" width="120"/>
+<img src="certificates/mcard-advisor-nd-consulting.png" width="120"/>
 </a><br>
 <img src="Assets/Mastercard-Logo.png" height="25"/>
 </td>
