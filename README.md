@@ -110,49 +110,49 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/cisco-data-analytics.pdf">
 <img src="certificates/cisco-data-analytics.png" width="120"/>
 </a><br>
-<img src="Assets/cisco.png" height="25"/>
+<img src="Assets/cisco.png" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/mcard-advisor-nd-consulting.pdf">
 <img src="certificates/mcard-advisor-nd-consulting.png" width="120"/>
 </a><br>
-<img src="Assets/Mastercard-Logo.png" height="25"/>
+<img src="Assets/Mastercard-Logo.png" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/walmart.pdf">
 <img src="certificates/walmart.png" width="120"/>
 </a><br>
-<img src="Assets/walmart.webp" height="45"/>
+<img src="Assets/walmart.webp" height="30"/>
 </td>
 
 <td align="center">
 <a href="certificates/deloitte-v-intern-certificate.pdf">
 <img src="certificates/deloitte-v-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/deloitte-logo-01.png" height="25"/>
+<img src="Assets/deloitte-logo-01.png" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/aws-cloud-computing-essentials.pdf">
 <img src="certificates/aws-cloud-computing-essentials.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+<img src="https://skillicons.dev/icons?i=aws" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/g-analytics.pdf">
 <img src="certificates/g-analytics.png" width="120"/>
 </a><br>
-<img src="Assets/google-logo-png.webp" height="30"/>
+<img src="Assets/google-logo-png.webp" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/AI-for-Business-Professionals.pdf">
 <img src="certificates/AI-for-Business-Professionals.png" width="120"/>
 </a><br>
-<img src="Assets/HP-Logo-Transparent-PNG.png" height="30"/>
+<img src="Assets/HP-Logo-Transparent-PNG.png" height="28"/>
 </td>
 
 </tr>
@@ -165,14 +165,14 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/aws-cloud-first-steps.pdf">
 <img src="certificates/aws-cloud-first-steps.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32"/>
+<img src="https://skillicons.dev/icons?i=aws" height="28"/>
 </td>
 
 <td align="center">
 <a href="certificates/plasmid-intern-certificate.pdf">
 <img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/plasmid-removebg.png" height="25"/>
+<img src="Assets/plasmid-removebg.png" height="28"/>
 </td>
 
 <td align="center">
@@ -186,7 +186,7 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <a href="certificates/SQL-Ceritificate.pdf">
 <img src="certificates/sql.png" width="120"/>
 </a><br>
-<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="28"/>
 </td>
 
 </tr>
