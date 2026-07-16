@@ -114,6 +114,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 <td align="center">
+<a href="certificates/mastercard-advisor-and-consulting.pdf">
+<img src="certificates/mastercard-advisor-and-consulting" width="120"/>
+</a><br>
+<img src="Assets/Mastercard-logo.png" height="25"/>
+</td>
+
+<td align="center">
 <a href="certificates/walmart.pdf">
 <img src="certificates/walmart.png" width="120"/>
 </a><br>
@@ -148,14 +155,6 @@ I believe the best way to learn is by **building, experimenting, and improving e
 <img src="Assets/HP-Logo-Transparent-PNG.png" height="30"/>
 </td>
 
-<td align="center">
-<a href="certificates/plasmid-intern-certificate.pdf">
-<img src="certificates/plasmid-intern-certificate.png" width="120"/>
-</a><br>
-<img src="Assets/plasmid-removebg.png" height="25"/>
-</td>
-
-
 </tr>
 
 <!-- ================= START ADDING NEW CERTIFICATES BELOW ================= -->
@@ -170,10 +169,10 @@ I believe the best way to learn is by **building, experimenting, and improving e
 </td>
 
 <td align="center">
-<a href="certificates/cisco-data-analytics.pdf">
-<img src="certificates/cisco-data-analytics.png" width="120"/>
+<a href="certificates/plasmid-intern-certificate.pdf">
+<img src="certificates/plasmid-intern-certificate.png" width="120"/>
 </a><br>
-<img src="Assets/cisco.png" height="25"/>
+<img src="Assets/plasmid-removebg.png" height="25"/>
 </td>
 
 <td align="center">
