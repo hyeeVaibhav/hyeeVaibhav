@@ -199,11 +199,24 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 # 📊 GitHub Dashboard
 
+# 📊 GitHub Dashboard
+
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyeeVaibhav&show_icons=true&hide_border=true&bg_color=00000000&title_color=21D375&icon_color=FFD200&text_color=FFFFFF"/>
-<img height="170" src="https://streak-stats.demolab.com?user=hyeeVaibhav&hide_border=true&background=00000000&border=21D375&stroke=FFD200&ring=21D375&fire=F7971E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=21D375&sideLabels=FFD200&dates=CCCCCC"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&hide_border=true&bg_color=00000000&title_color=21D375&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats-dyk34il8h-vaibhav-codes.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats-dyk34il8h-vaibhav-codes.vercel.app/api/top-langs/?username=hyeeVaibhav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hyeeVaibhav&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hyeeVaibhav&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 # 📈 GitHub Activity Graph
