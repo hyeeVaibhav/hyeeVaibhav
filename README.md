@@ -205,13 +205,13 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 <img
   width="49%"
-  src="https://github-readme-stats-dyk34il8h-vaibhav-codes.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&cache_seconds=1800"
+  src="https://github-readme-stats-dyk34il8h-vaibhav-codes.vercel.app/api?username=hyeeVaibhav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&cache_seconds=1800&v=2"
   alt="GitHub Stats"
 />
 
 <img
   width="49%"
-  src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true&border_radius=15"
+  src="https://streak-stats.demolab.com?user=hyeeVaibhav&theme=tokyonight&hide_border=true&border_radius=15&v=2"
   alt="GitHub Streak"
 />
 
