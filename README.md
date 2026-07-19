@@ -226,28 +226,6 @@ I believe the best way to learn is by **building, experimenting, and improving e
 
 </div> -->
 
-# 📅 Monthly Coding Challenge
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
-
-<div align="center">
-
-### 🚀 JULY 2026
-
-```text
- Sun  Mon  Tue  Wed  Thu  Fri  Sat
-
-               🟩   🟩   🟩   🟩
- 🟩   🟩   🟩   🟨   🟩   🟩   🟩
- 🟩   🟩   🟩   🟩   🟩   🟩   🟩
- 🟩   🟩   🟩   🟩   🟩   🟩   🟩
- 🟩   🟩   🟩
-```
-
-🟩 **Commit** • 🟨 **Learning** • ⬜ **Rest**
-
-</div>
-
 # 💻 LeetCode
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F7971E,25:FFD200,55:21D375,100:0B8793"/>
